@@ -1,0 +1,2312 @@
+[
+    {
+        "artist": "Greg Duncan",
+        "title": "Bust of Cecil Voss",
+        "date": "1998",
+        "materials": "Stone",
+        "address": "Soundy Park",
+        "description": "Stone Sculpture",
+        "type": "Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image44.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87274312254961,
+            "long": 147.3194931771939
+        }
+    },
+    {
+        "artist": "Julie Stoneman (Community Facilitator)",
+        "title": "Community Paving Project",
+        "date": "1994",
+        "materials": "Pavers",
+        "address": "Elizabeth Street and side streets, North Hobart",
+        "description": "<Null>",
+        "type": "Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0003.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.87335406456058,
+            "long": 147.3155023364818
+        }
+    },
+    {
+        "artist": "Gerhardt Mauz/Kieran Bradley",
+        "title": "Lightpoles",
+        "date": "2005",
+        "materials": "Steel",
+        "address": "Elizabeth Street",
+        "description": "Lightpoles and Photography",
+        "type": "Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image47.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87248026228411,
+            "long": 147.3146246779994
+        }
+    },
+    {
+        "artist": "Peter Gouldthorpe",
+        "title": "Tony Haigh Walk",
+        "date": "2000",
+        "materials": "<Null>",
+        "address": "<Null>",
+        "description": "2 Trompe l'oeil murals",
+        "type": "Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image48.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87390719414243,
+            "long": 147.3160684555258
+        }
+    },
+    {
+        "artist": "Gehard Mausz",
+        "title": "Cultural Bollard",
+        "date": "2000",
+        "materials": "Steel",
+        "address": "Elizabeth Street",
+        "description": "Patterened Steel Cylinder",
+        "type": "Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image49.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87367152314735,
+            "long": 147.3159246123297
+        }
+    },
+    {
+        "artist": "Peter Battaglene",
+        "title": "Art Pavers",
+        "date": "2005",
+        "materials": "pavers",
+        "address": "Elizabeth Street",
+        "description": "Sandblasted decorative pavers",
+        "type": "Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0003.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.87364565236186,
+            "long": 147.3158682993458
+        }
+    },
+    {
+        "artist": "Sharyn Woods",
+        "title": "Fences",
+        "date": "2005",
+        "materials": "Stainless Steel",
+        "address": "<Null>",
+        "description": "Sections of open patterned stainless steel fencing",
+        "type": "Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image51.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.8727237856192,
+            "long": 147.314837027175
+        }
+    },
+    {
+        "artist": "Sharyn Woods",
+        "title": "Tree Guards",
+        "date": "2005",
+        "materials": "stainless steel",
+        "address": "Elizabeth Street",
+        "description": "welded stainless strip boxes",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image50.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87303057453714,
+            "long": 147.3151984679925
+        }
+    },
+    {
+        "artist": "Roland Gabatel",
+        "title": "Tree Sculpture",
+        "date": "2000",
+        "materials": "Timber",
+        "address": "Friends Park, Mellifont Street.",
+        "description": "Chainsaw sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image52.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87672267866007,
+            "long": 147.3084070417308
+        }
+    },
+    {
+        "artist": "Peter Taylor",
+        "title": "Archway",
+        "date": "1988",
+        "materials": "Timber",
+        "address": "Hunter Street, Universtiy of Tasmania Art School",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0066.JPG",
+        "url2": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0067.JPG",
+        "location": {
+            "lat": -42.88144240159926,
+            "long": 147.3363089134809
+        }
+    },
+    {
+        "artist": "Stephen Walker",
+        "title": "The Bernacchi Tribute: Self Portrait, Lous and Joe",
+        "date": "1988",
+        "materials": "Bronze",
+        "address": "Victoria Dock",
+        "description": "Bronze sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0063.jpg",
+        "url2": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0064.jpg",
+        "location": {
+            "lat": -42.88225238834132,
+            "long": 147.3351723782548
+        }
+    },
+    {
+        "artist": "David Hurst",
+        "title": "Troyseas",
+        "date": "2004",
+        "materials": "Bronze",
+        "address": "Mures Fish Centre, waterfront",
+        "description": "Bronze seahorse",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0078.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88228652932703,
+            "long": 147.3337098270266
+        }
+    },
+    {
+        "artist": "Iam Makay",
+        "title": "Bright Prospect",
+        "date": "1979",
+        "materials": "Steel, Paint",
+        "address": "TMAG, 40 Macquarie Street",
+        "description": "Orange painted constructavist steel sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0071.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.88163573405019,
+            "long": 147.3319416460867
+        }
+    },
+    {
+        "artist": "John Arnold",
+        "title": "Mural, Kent & Kent Antiques",
+        "date": "1998",
+        "materials": "Paint",
+        "address": "On the wall of Kent and Kent Antiques",
+        "description": "Painted Mural",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image34.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88295423519235,
+            "long": 147.3321544209718
+        }
+    },
+    {
+        "artist": "Stephen Walker",
+        "title": "Tidal Pools",
+        "date": "1970",
+        "materials": "Bronze",
+        "address": "Long Beach, Sandy Bay",
+        "description": "Bronze sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0059.jpg",
+        "url2": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0057.jpg",
+        "location": {
+            "lat": -42.91233705658434,
+            "long": 147.3564900053166
+        }
+    },
+    {
+        "artist": "Stephen Walker",
+        "title": "Tasman Monument",
+        "date": "1988",
+        "materials": "Concrete, Steel, Bronze",
+        "address": "Salamanca Place",
+        "description": "Concrete forms incorporating bronze sculptures",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image33.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88633421925687,
+            "long": 147.3315717073784
+        }
+    },
+    {
+        "artist": "Stephen Walker",
+        "title": "Journey to Southland",
+        "date": "1979",
+        "materials": "Bronze, concrete",
+        "address": "Salamanca Square",
+        "description": "circular fountain with bronze sculptures",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image40.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88736773052766,
+            "long": 147.3327916626435
+        }
+    },
+    {
+        "artist": "Peter Wilson",
+        "title": "Wave",
+        "date": "1998",
+        "materials": "Aluminium, Steel",
+        "address": "Salamanca Square",
+        "description": "sculpture in painted steel and aluminium",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0087.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88746172408802,
+            "long": 147.3323408045803
+        }
+    },
+    {
+        "artist": "Keizo Ushio",
+        "title": "Gift from the Earth",
+        "date": "2001",
+        "materials": "Granite, timber",
+        "address": "A J White Park, Battery Poing",
+        "description": "Granite sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image41.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88919132741535,
+            "long": 147.3380769568636
+        }
+    },
+    {
+        "artist": "Joe Burgden, Bernard Lloyd, Sound Connections",
+        "title": "Victoria Cross Memorial",
+        "date": "2003",
+        "materials": "Rammed earth, glass",
+        "address": "Cenotaph, Hobart",
+        "description": "Rammed Earth and glass monument",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image38.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87752379007447,
+            "long": 147.3358211670198
+        }
+    },
+    {
+        "artist": "Penny Smith, Mialn Milojevic, John Smith",
+        "title": "Wapping History Wall",
+        "date": "1998",
+        "materials": "Concrete, Brick",
+        "address": "Collins Street, Brooker Highway",
+        "description": "<Null>",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image23.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87880638531607,
+            "long": 147.3330361623906
+        }
+    },
+    {
+        "artist": "Geoff Parr, Vere Cooper, Rod Cuthbert",
+        "title": "Railway Roundabout Fountain",
+        "date": "1963",
+        "materials": "Concrete",
+        "address": "Brooker Highway",
+        "description": "Fountain",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image22.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87804479832364,
+            "long": 147.3310259988671
+        }
+    },
+    {
+        "artist": "Christopher Beecroft",
+        "title": "Minute Man",
+        "date": "1986",
+        "materials": "Steel",
+        "address": "TAS HQ Campbell and Melville Street",
+        "description": "Welded mild steel sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_00101.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.87745030943859,
+            "long": 147.3270983445999
+        }
+    },
+    {
+        "artist": "Glen Clake",
+        "title": "Brick",
+        "date": "1998",
+        "materials": "Metal",
+        "address": "Hobart Remand Centre, 23 - 25 Liverpool Street.",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/Brick (2).jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.87920100858153,
+            "long": 147.3293673193911
+        }
+    },
+    {
+        "artist": "Hobart City Council",
+        "title": "Hobart Rivulet Interpretaions",
+        "date": "1998",
+        "materials": "Steel",
+        "address": "Argyle Street",
+        "description": "Two rectangular steel panels",
+        "type": "Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image16.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88059520851069,
+            "long": 147.3289802997716
+        }
+    },
+    {
+        "artist": "Tom Samek",
+        "title": "Inspiration",
+        "date": "1990",
+        "materials": "",
+        "address": "25 Argyle Street.",
+        "description": "Sculpture on column",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0095.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88150582068632,
+            "long": 147.3304819582173
+        }
+    },
+    {
+        "artist": "Irene Bryant",
+        "title": "Duality",
+        "date": "1991",
+        "materials": "Concrete, Steel",
+        "address": "70 Collins Street",
+        "description": "Ferro-cement sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0093.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88147913529032,
+            "long": 147.3298208822417
+        }
+    },
+    {
+        "artist": "Sharyn Woods",
+        "title": "Tree Guards",
+        "date": "1999",
+        "materials": "stainless steel",
+        "address": "Commonwealth Bank corner Elizabeth Street",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image20.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88115911197071,
+            "long": 147.3270346495125
+        }
+    },
+    {
+        "artist": "Wayne Hudson, Helene Czerny",
+        "title": "City Women",
+        "date": "1998",
+        "materials": "steel",
+        "address": "Elizabeth Lane, Cat and Fiddle aracde.",
+        "description": "steel wall mounted sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image17.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88169678927518,
+            "long": 147.3274553077553
+        }
+    },
+    {
+        "artist": "Wayne Hudson",
+        "title": "Seats with leaning Posts",
+        "date": "1998",
+        "materials": "stainless steel",
+        "address": "Elizabeth Lane, Cat and Fiddle arcade",
+        "description": "-",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image18.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88189015612827,
+            "long": 147.3273251152857
+        }
+    },
+    {
+        "artist": "Julie Stoneman",
+        "title": "Paving Design",
+        "date": "1998",
+        "materials": "Brick Pavers",
+        "address": "Ctriterion Street",
+        "description": "Brick paving",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image19.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88144383573657,
+            "long": 147.3259231328377
+        }
+    },
+    {
+        "artist": "Pavement Art",
+        "title": "Chantale Delrue",
+        "date": "1990",
+        "materials": "<Null>",
+        "address": "Mathers Lane",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image21.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88171834840235,
+            "long": 147.3255966083427
+        }
+    },
+    {
+        "artist": "Ian Chalmers, Lindsay Garity",
+        "title": "Hobart Rivulet Interpretations",
+        "date": "1995",
+        "materials": "steel, concrete",
+        "address": "Murray Street, Centrepoint pedestrian crossing",
+        "description": "Curved steel strips in pavement",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image2.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88304621457425,
+            "long": 147.3264901811633
+        }
+    },
+    {
+        "artist": "Allan Mansell",
+        "title": "Reaching Out",
+        "date": "2004",
+        "materials": "",
+        "address": "188 Collins Street",
+        "description": "Sculpture and Mural",
+        "type": "Sculpture and Mural",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/20141203_162834.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.88689928836643,
+            "long": 147.3226325717425
+        }
+    },
+    {
+        "artist": "George Davis",
+        "title": "Tile",
+        "date": "1964",
+        "materials": "Tiles",
+        "address": "UTAS Conservatorium of Music",
+        "description": "Tile wall mosaic on building",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0088.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.8867781254838,
+            "long": 147.3281256124001
+        }
+    },
+    {
+        "artist": "Paul Zika",
+        "title": "Paving design",
+        "date": "1996",
+        "materials": "bricks",
+        "address": "Elizabeth Street Mall",
+        "description": "Symmetrical design in coloured bricks",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image1.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88145650565588,
+            "long": 147.3274687398049
+        }
+    },
+    {
+        "artist": "Ian Chalmers, Lindsay Garity",
+        "title": "Hobart Rivulet Interpretations",
+        "date": "<Null>",
+        "materials": "steel, concrete",
+        "address": "Murray Street, Centrepoint pedestrian crossing",
+        "description": "Curved steel strips in pavement",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image2.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.8829687543799,
+            "long": 147.3265787689805
+        }
+    },
+    {
+        "artist": "Milan Milojevic, Lindsay Garity, Ian Chalmers",
+        "title": "Hobart Rivulet Interpretations",
+        "date": "1996",
+        "materials": "steel, concrete",
+        "address": "Elizabeth Street Mall",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image14.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88148995374108,
+            "long": 147.3276699246547
+        }
+    },
+    {
+        "artist": "Patrick Wall",
+        "title": "Fish out of water",
+        "date": "1996",
+        "materials": "Aluminium",
+        "address": "Elizabeth Street Mall",
+        "description": "Aluminum fish drinking fountain",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image4.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88197809056592,
+            "long": 147.328554446623
+        }
+    },
+    {
+        "artist": "Patrick Hall",
+        "title": "Thompson the Dog",
+        "date": "1996",
+        "materials": "Timber",
+        "address": "Elizabeth Street Mall",
+        "description": "Timber dog",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image5.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88191256512047,
+            "long": 147.3284089597482
+        }
+    },
+    {
+        "artist": "Patrick Hall",
+        "title": "Maurice the Pig",
+        "date": "1996",
+        "materials": "Hebel block, paint",
+        "address": "Elizabeth Street Mall",
+        "description": "Moulded hebel block, painted white pig sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image6.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88194232514448,
+            "long": 147.328481046179
+        }
+    },
+    {
+        "artist": "Patrick Hall",
+        "title": "Street Signs - Wellington Walk",
+        "date": "1996",
+        "materials": "steel, ceramic tiles",
+        "address": "Elizabeth Street Mall",
+        "description": "Wellington Walk - Wellington Crt",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0098.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88152230341176,
+            "long": 147.3277721519491
+        }
+    },
+    {
+        "artist": "Patrick Hall",
+        "title": "Street Signs - Purdys Mart",
+        "date": "1996",
+        "materials": "steel",
+        "address": "Collins Street",
+        "description": "Purdys Mart",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0092.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88177689026765,
+            "long": 147.329142350624
+        }
+    },
+    {
+        "artist": "Patrick Hall",
+        "title": "Street Signs - Kemp Street",
+        "date": "1996",
+        "materials": "steel",
+        "address": "Collins Street",
+        "description": "Kemp Street",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0091.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.8815183267847,
+            "long": 147.3294772712727
+        }
+    },
+    {
+        "artist": "Patrick Hall",
+        "title": "Street Signs",
+        "date": "1996",
+        "materials": "steel",
+        "address": "Argyle Street",
+        "description": "",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0094.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88088629675933,
+            "long": 147.3293200995748
+        }
+    },
+    {
+        "artist": "Patrick Hall",
+        "title": "Street Signs - Bank Arcade",
+        "date": "1996",
+        "materials": "steel",
+        "address": "Liverpool Street",
+        "description": "",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0097.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88091635935886,
+            "long": 147.3276753763854
+        }
+    },
+    {
+        "artist": "Patrick Hall",
+        "title": "Street Signs",
+        "date": "1996",
+        "materials": "steel, ceramic tiles",
+        "address": "Elizabeth Street Mall",
+        "description": "Bank Arcade",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image8.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88136247464536,
+            "long": 147.3274230200142
+        }
+    },
+    {
+        "artist": "Patrick Hall",
+        "title": "Street Signs - Soundys Lane",
+        "date": "1996",
+        "materials": "steel",
+        "address": "Elizabeth Street Mall",
+        "description": "",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0099.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88160303880302,
+            "long": 147.3279462012967
+        }
+    },
+    {
+        "artist": "Patrick Hall",
+        "title": "Granite Stories",
+        "date": "1996",
+        "materials": "Granite",
+        "address": "Elizabeth Street Mall",
+        "description": "Engravings to granite blocks in seating",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image9.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88185243992315,
+            "long": 147.3283055654023
+        }
+    },
+    {
+        "artist": "Carol Rodwell",
+        "title": "police box mural",
+        "date": "1998",
+        "materials": "paint",
+        "address": "Elizabeth Street Mall",
+        "description": "painted mural",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image11.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88182008402902,
+            "long": 147.3283718119425
+        }
+    },
+    {
+        "artist": "Sharyn Woods",
+        "title": "Wind Shields",
+        "date": "1996",
+        "materials": "stainless steel",
+        "address": "Elizabeth Street Mall",
+        "description": "Curved, woven stainless steel screens",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image10.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88203348754708,
+            "long": 147.3287325724506
+        }
+    },
+    {
+        "artist": "Paul Zika",
+        "title": "Paving design",
+        "date": "1996",
+        "materials": "brick pavers",
+        "address": "Wellington Court",
+        "description": "Symmetrical design in coloured bricks",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image12.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88128414472624,
+            "long": 147.3283171312989
+        }
+    },
+    {
+        "artist": "Hobart City Council",
+        "title": "Terrazo star",
+        "date": "1998",
+        "materials": "tiles, steel",
+        "address": "Wellington Court",
+        "description": "Terrazo and Bronze strips in paving",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image12.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88129830099867,
+            "long": 147.3283658047948
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Jo & Edie",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Tasma Street",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0006.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.87511021703933,
+            "long": 147.3194192140392
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Fred",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Tasma Street",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0006.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.87506098797548,
+            "long": 147.3195518198034
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Bazza",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Elizabeth St, between Brisbane & Mellville St",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0100.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.87988128585182,
+            "long": 147.3238333137203
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Dazza",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Elizabeth St, between Brisbane & Mellville St",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0100.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.87991396745193,
+            "long": 147.3239034639348
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Gazza",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Elizabeth St, between Brisbane & Mellville St",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0100.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.87994807167483,
+            "long": 147.3239765371663
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Ez",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Golburn & Molle Street",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0061.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88644522408968,
+            "long": 147.3199383851654
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Fred",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Hunter St",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0077.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88121919675631,
+            "long": 147.334929704462
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Fred",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0080.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88686006898552,
+            "long": 147.3322279845156
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Mac",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0081.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88692748680722,
+            "long": 147.3322041024404
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Charlie",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0081.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88700883322519,
+            "long": 147.3321587453241
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Jo & Edie",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0083.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88723118331279,
+            "long": 147.3331609148761
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Charlie Kik & Rose",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0084.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.887231111653,
+            "long": 147.3331855393384
+        }
+    },
+    {
+        "artist": "Ken Betlehem",
+        "title": "Ruby",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "Salamanca Square",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0061.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.88724220193141,
+            "long": 147.3331736760321
+        }
+    },
+    {
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "title": "1883",
+        "date": "2010",
+        "materials": "Stone, steel",
+        "address": "Salamanca Palce",
+        "description": "Steel cages with stone chips",
+        "type": "Battery Point Trail",
+        "url1": "http://www.hobartcity.com.au/files/f1b57999-88ac-4041-98fa-9dd800d3c1f6/1833_073.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.88663918579913,
+            "long": 147.3346451741691
+        }
+    },
+    {
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "title": "12.43",
+        "date": "2010",
+        "materials": "concrete, steel and resin",
+        "address": "Castray Esplanade",
+        "description": "<Null>",
+        "type": "Battery Point Trail",
+        "url1": "http://www.hobartcity.com.au/files/4aa2e287-d70a-4205-a715-9dd800d3c1b9/12.43_083.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.88659912440483,
+            "long": 147.337550966097
+        }
+    },
+    {
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "title": "628 nm",
+        "date": "2010",
+        "materials": "glass",
+        "address": "Castray Eplanade foreshore",
+        "description": "<Null>",
+        "type": "Battery Point Trail",
+        "url1": "http://www.hobartcity.com.au/files/650fe8d5-9af6-49ee-81ae-9dd800d3c2c9/628_030.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.88743212320976,
+            "long": 147.3391890390568
+        }
+    },
+    {
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "title": "2000",
+        "date": "2010",
+        "materials": "steel, concrete",
+        "address": "Finlay Street foreshore",
+        "description": "steel wrapped around concrete retaining wall",
+        "type": "Battery Point Trail",
+        "url1": "http://www.hobartcity.com.au/files/7dc00033-3311-4d82-93c6-9e09010fd0e8/Battery_point_pics_027_(Small).jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.88901121558774,
+            "long": 147.3379490012138
+        }
+    },
+    {
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "title": "1923",
+        "date": "2010",
+        "materials": "Wire mesh, plants",
+        "address": "Clarke Avenue",
+        "description": "wire cage containing topiary plant",
+        "type": "Battery Point Trail",
+        "url1": "http://www.hobartcity.com.au/files/e4e0711a-8554-4867-8fc8-9e09010fd340/Battery_point_pics_037_(Small).jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.89018079910949,
+            "long": 147.3385381406442
+        }
+    },
+    {
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "title": "313",
+        "date": "2010",
+        "materials": "<Null>",
+        "address": "Derwent Lane jetty",
+        "description": "",
+        "type": "Battery Point Trail",
+        "url1": "http://www.hobartcity.com.au/files/ddff0c92-aa9c-44eb-8caa-9dd800d3c246/313_009.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.8923183997485,
+            "long": 147.3373755398925
+        }
+    },
+    {
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "title": "1250",
+        "date": "2010",
+        "materials": "<Null>",
+        "address": "Napoleon Street",
+        "description": "",
+        "type": "Battery Point Trail",
+        "url1": "http://www.hobartcity.com.au/files/36a4b4f7-dcc1-4b7c-94e6-9dd800d3c1d5/1250_053.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.89227563696255,
+            "long": 147.3354824548092
+        }
+    },
+    {
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "title": "24",
+        "date": "2010",
+        "materials": "<Null>",
+        "address": "Napoleon Street",
+        "description": "Resin",
+        "type": "Battery Point Trail",
+        "url1": "http://www.hobartcity.com.au/files/8feb1c92-1256-4a6e-853c-9e09010fdcc1/Battery_point_pics_072_(Small).jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.89331214092064,
+            "long": 147.3346862255545
+        }
+    },
+    {
+        "artist": "Futago, Judith Abell, Chris Viney",
+        "title": "1909",
+        "date": "2010",
+        "materials": "<Null>",
+        "address": "Marieville esplanade foreshore",
+        "description": "painted steel sculpture",
+        "type": "Battery Point Trail",
+        "url1": "http://www.hobartcity.com.au/files/8feb1c92-1256-4a6e-853c-9e09010fdcc1/Battery_point_pics_072_(Small).jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.89438818219708,
+            "long": 147.3335878421836
+        }
+    },
+    {
+        "artist": "Ari Purhonen",
+        "title": "Beacon",
+        "date": "2013",
+        "materials": "Timber, Stainless steel",
+        "address": "Long Beach Sandy Bay",
+        "description": "stainless steel and celery top pine tower",
+        "type": "Art",
+        "url1": "http://www.hobartcity.com.au/files/eb4b6d51-670f-4f8d-9235-a23500b50b00/Ari_Purhonen_WEB_039.jpg",
+        "url2": "http://www.hobartcity.com.au/files/a0c7b665-9a58-43d9-b81c-a23500b4ee8b/Ari_Purhonen_WEB_015.jpg",
+        "location": {
+            "lat": -42.91021762682649,
+            "long": 147.3572424024102
+        }
+    },
+    {
+        "artist": "Justy Phillips",
+        "title": "The yellow line",
+        "date": "2013",
+        "materials": "Aluminium, Acrylic, LED lights",
+        "address": "Salamanca Place",
+        "description": "Inground light box",
+        "type": "Urban Art",
+        "url1": "http://www.hobartcity.com.au/files/6b2ed319-80c5-4d5b-bc72-a23400e52333/In_the_Wake_of_your_Courage_I_swim.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.886061028844,
+            "long": 147.3303051904601
+        }
+    },
+    {
+        "artist": "Justy Phillips",
+        "title": "The yellow line",
+        "date": "2013",
+        "materials": "Aluminium, Acrylic, LED lights",
+        "address": "Salamanca Place",
+        "description": "Inground light box",
+        "type": "Urban Art",
+        "url1": "http://www.hobartcity.com.au/files/284644c3-4fbb-4c3e-86d0-a23400e50462/Forgive_me_for_not_holding_you_in_my_arms.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.8858923757109,
+            "long": 147.330040994905
+        }
+    },
+    {
+        "artist": "Georgie Marshall, Najibeh Jafari",
+        "title": "No Trees No City",
+        "date": "2011",
+        "materials": "paint",
+        "address": "Cnr Davey and Harrington Streets",
+        "description": "mural",
+        "type": "Signal Box",
+        "url1": "http://www.hobartcity.com.au/files/c56723b6-fca7-4980-9784-9ffa00ec02d8/9101_a.jpg",
+        "url2": "http://www.hobartcity.com.au/files/a6d0bfc4-cafd-45a5-9756-9ffa00ec1f0b/9101_b.jpg",
+        "location": {
+            "lat": -42.88637147044793,
+            "long": 147.3275504450056
+        }
+    },
+    {
+        "artist": "Rory Lefroy",
+        "title": "Safe with us now",
+        "date": "2011",
+        "materials": "paint",
+        "address": "Cnr Davey & Murray St",
+        "description": "mural",
+        "type": "Signal Box",
+        "url1": "http://www.hobartcity.com.au/files/268722c2-e08a-48bd-bfec-9f4b00efb916/9103_front.jpg",
+        "url2": "http://www.hobartcity.com.au/files/03fb4c05-b4e3-4002-8964-9f4b00efb965/9103_side.jpg",
+        "location": {
+            "lat": -42.88436295941175,
+            "long": 147.3295638563851
+        }
+    },
+    {
+        "artist": "Cosmos Inc",
+        "title": "Things we love about Tasmania",
+        "date": "2011",
+        "materials": "paint",
+        "address": "Cnr Macquarie & Murray Sts",
+        "description": "mural",
+        "type": "Signal Box",
+        "url1": "http://www.hobartcity.com.au/files/61a4979f-f340-4d12-8283-9ffa00ec31a0/9104_a.jpg",
+        "url2": "http://www.hobartcity.com.au/files/71251fd8-0a11-48cb-971a-9ffa00ec424a/9104_b.jpg",
+        "location": {
+            "lat": -42.88393169217031,
+            "long": 147.3288578992892
+        }
+    },
+    {
+        "artist": "Valentina Marshall, Veronika Beinssen-Henry",
+        "title": "Spotted Handfish",
+        "date": "<Null>",
+        "materials": "<Null>",
+        "address": "Cnr Davey and Argyle Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/474e30f0-57c8-4dc6-a843-9ffa00ec5615/9105_a.jpg",
+        "url2": "http://www.hobartcity.com.au/files/a436fbf0-81d2-40a8-8847-9ffa00ec66e9/9105_b.jpg",
+        "location": {
+            "lat": -42.88251586972793,
+            "long": 147.3319324108624
+        }
+    },
+    {
+        "artist": "Nicole Robson for MADE",
+        "title": "MADE",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Cnr Macquarie & Argyle Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/0b9ac357-83b9-4a54-813b-9f4b00efb9c3/9106_2.jpg",
+        "url2": "http://www.hobartcity.com.au/files/49e6537b-c0d1-45e0-aa58-9f4b00efba1c/9106_detail.jpg",
+        "location": {
+            "lat": -42.88204264244135,
+            "long": 147.3313680745744
+        }
+    },
+    {
+        "artist": "The Pigeons of Hobart",
+        "title": "Lucy Hawthorne",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Campbell & Macquarie Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/78436bc0-d98e-4b91-a669-a08d00f0c7a5/9107_north-corner_w430_h620_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/01477fbf-164e-4665-8db7-a08d00f0ea0d/9107_south-side_w430_h620_Small.jpg",
+        "location": {
+            "lat": -42.88072666151513,
+            "long": 147.3324478010635
+        }
+    },
+    {
+        "artist": "Crazy Flower Pattern",
+        "title": "Juanita Morris & Marcel Fantini",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Campbell & Collins Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/8951a6d5-1a74-442b-81a0-a0b001009cc4/9108_2Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/3d80ca80-4bf6-4bde-bfb3-a0b001008229/9108_1_Small.jpg",
+        "location": {
+            "lat": -42.88010566686118,
+            "long": 147.3316359532766
+        }
+    },
+    {
+        "artist": "Hands on Tasmania",
+        "title": "Hands on English class, Tasmanian Polytechnic",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Argyle & Liverpool Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/5db37860-285d-4fc9-80fc-a08d00f0fddd/9109_front_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/910ae2d1-7b0b-4c54-898a-a08d00f1118c/9109_side_1_Small.jpg",
+        "location": {
+            "lat": -42.8801740065739,
+            "long": 147.3283030901578
+        }
+    },
+    {
+        "artist": "Holiday Time",
+        "title": "Oakdale Services",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Holiday Time",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/ae182903-ea16-4076-ba4c-9f4b00efba83/9110_front.jpg",
+        "url2": "http://www.hobartcity.com.au/files/952ca042-3e5b-413e-a519-9f4b00efbadc/9110_side.jpg",
+        "location": {
+            "lat": -42.88106497576714,
+            "long": 147.3299596807074
+        }
+    },
+    {
+        "artist": "From darkness we all can find the light",
+        "title": "Create Foundation and Reclink",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Cnr Macquarie and Elizabeth Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/5e8506fb-12b9-408e-b4aa-9f4b00efbb35/9111_2.jpg",
+        "url2": "http://www.hobartcity.com.au/files/69108ba5-ea69-4025-aa00-9f4b00efbb98/91111.jpg",
+        "location": {
+            "lat": -42.88282688918648,
+            "long": 147.3299787902823
+        }
+    },
+    {
+        "artist": "Desma Pacitto",
+        "title": "TasCare Society for Children",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Cnr Murray & Collins",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/306ed138-956c-4059-9078-9f4b00efbbf5/9112_1.jpg",
+        "url2": "http://www.hobartcity.com.au/files/7eca1ff8-be28-4e26-b9dc-9f4b00efbc4e/9112_2.jpg",
+        "location": {
+            "lat": -42.88199637365013,
+            "long": 147.3288957932892
+        }
+    },
+    {
+        "artist": "Reclink - Phillip McKay, Headway",
+        "title": "Such is Life",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Cnr Liverpool & Murray Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/a6c0e3e9-88d7-49e4-bde3-9ffa00ec78a7/9113_a.jpg",
+        "url2": "http://www.hobartcity.com.au/files/bcfcca85-030a-47ae-b8fb-9ffa00ec8d29/9113_b.jpg",
+        "location": {
+            "lat": -42.88257046346956,
+            "long": 147.3255162030298
+        }
+    },
+    {
+        "artist": "Risdon Prisoners with assistance from RecLink",
+        "title": "At What Cost?",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Cnr Elizabeth & LIverpool Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/5ba528ce-b64b-4605-80bb-9f4b00efbcb1/9114_1.jpg",
+        "url2": "http://www.hobartcity.com.au/files/1ce05306-d382-44db-acd5-9f4b00efbd0f/9114_2.jpg",
+        "location": {
+            "lat": -42.88126675829872,
+            "long": 147.3269330962386
+        }
+    },
+    {
+        "artist": "Sam Fenton",
+        "title": "Courage",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Elizabeth & Collins Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/92a3d13a-4ef7-433d-b747-a0b00100aeac/9115_2_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/7a0d3592-bb35-4c77-81de-a0b00100c3a3/9115_5_Small.jpg",
+        "location": {
+            "lat": -42.88207941858523,
+            "long": 147.3291285627857
+        }
+    },
+    {
+        "artist": "Epilepsy Tasmania",
+        "title": "Out of the",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Harrington & Liverpool Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/9f999e6b-1f71-4ce9-a4bd-a0b00100ed89/9118_2Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/82af077c-7c56-4131-8ec6-a0b00100d740/9118_1_Small.jpg",
+        "location": {
+            "lat": -42.8841304526127,
+            "long": 147.3241790450382
+        }
+    },
+    {
+        "artist": "Malou Zuidema",
+        "title": "Forests of the Sea",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Bathurst & Murray Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/06b37255-a453-4eff-ae15-a08d00f12134/9119-oceans-of-the-sea-front-malou-zuidema_w430_h620_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/59f91ffd-ff87-4125-91e6-a08d00f132e8/9119-oceans-of-the-sea-side-2-malou-zuidema_w430_h620_Small.jpg",
+        "location": {
+            "lat": -42.8819844362505,
+            "long": 147.3242660774709
+        }
+    },
+    {
+        "artist": "Menzie Family",
+        "title": "The many layers of Bathurst Street",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Cnr Elizabeth & Bathurst Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/40c16cac-8778-48f2-9949-9ffa00ec9c08/9121_a.jpg",
+        "url2": "http://www.hobartcity.com.au/files/eb2d63c6-1d7a-419c-b173-9ffa00ecbbd1/9121_b.jpg",
+        "location": {
+            "lat": -42.88082135063647,
+            "long": 147.325835038753
+        }
+    },
+    {
+        "artist": "Sharnie Everett and Palawa Aboriginal Group",
+        "title": "Island & Ocean",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Elizabeth St at Pedestrian Crossing",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/23f439ff-7748-4aa0-8919-a08d00f1bf39/9123_palawa-front-1_w430_h620_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/acb7ef55-c2cd-49c4-af44-a08d00f1ceee/9123_palawa-right-side-back_w430_h620_Small.jpg",
+        "location": {
+            "lat": -42.87362643008063,
+            "long": 147.3158825202121
+        }
+    },
+    {
+        "artist": "Caroline Amos",
+        "title": "Scotch Thistile Tavern 1828",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Barrack & Liverpool Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/8ae3587a-cd14-46ac-94c7-a08d00f1df8a/9129_dsc-2173_w430_h620_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/34665f06-c063-4933-8e8c-a08d00f1f02a/9129_dsc-2182_w430_h620_Small.jpg",
+        "location": {
+            "lat": -42.88572371231743,
+            "long": 147.3224336640918
+        }
+    },
+    {
+        "artist": "Tasmanian eSchool",
+        "title": "Flicks",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Collins & Harrington Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/52eb38ff-77d2-4b1d-9959-a0b001010272/9131_2_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/a125faf2-2aa8-4377-9525-a0b0010119ae/9131_4_Small.jpg",
+        "location": {
+            "lat": -42.88490453981891,
+            "long": 147.3252559336992
+        }
+    },
+    {
+        "artist": "Aspire",
+        "title": "Aspired",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Cnr Elizabeth & Melville Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/f30948ec-1a7d-4923-9da0-9f4b00efbd68/9134_1.jpg",
+        "url2": "http://www.hobartcity.com.au/files/9089a973-9491-4b47-8418-9f4b00efbdc5/9134_2.jpg",
+        "location": {
+            "lat": -42.88025218205794,
+            "long": 147.3244917632264
+        }
+    },
+    {
+        "artist": "Steffi Koppelmann",
+        "title": "Untitled",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Elizabeth & Warwick Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/796472d1-4fb9-4206-bef4-a0b001012e2c/9136_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/e9e6da3b-d172-4154-afdb-a0b0010f3b69/9136_2Small.jpg",
+        "location": {
+            "lat": -42.87784150629451,
+            "long": 147.3190664947627
+        }
+    },
+    {
+        "artist": "Friends School Kindergarten",
+        "title": "Peace",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Elizabeth & Burnett Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/b2af3a3f-4cab-4274-a74e-a0b001014770/9137_2_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/416862dc-3043-4054-8e89-a0b0011097c5/9137_1_Small.jpg",
+        "location": {
+            "lat": -42.87448353703269,
+            "long": 147.3171412871065
+        }
+    },
+    {
+        "artist": "Geordie Duncan",
+        "title": "Totem Sun-Whale Eye",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Cnr Elizabeth & Federal St",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/b2465b05-9ec6-425d-a4d2-9f4b00efbe23/9138_1.jpg",
+        "url2": "http://www.hobartcity.com.au/files/72158b3b-3358-40f0-b972-9f4b00efbe81/9138_2.jpg",
+        "location": {
+            "lat": -42.871978022115,
+            "long": 147.3145497262581
+        }
+    },
+    {
+        "artist": "St Michael's Collegiate, Louise Bloomfield",
+        "title": "Catching your eye",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Macquarie & Molle Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/52e47c65-0a49-496a-b558-a08d00f20851/9140_collegiate-angle2_w430_h620_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/535245a0-5cf5-42be-ab83-a08d00f21be8/9140_collegiate-side-angle_w430_h620_Small.jpg",
+        "location": {
+            "lat": -42.8884339103588,
+            "long": 147.3226191198606
+        }
+    },
+    {
+        "artist": "Leigh & Julian Oates",
+        "title": "Beneath",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Cnr Elizabeth & Davey Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/4df14eca-5a24-4028-aa23-9f4b00efbede/9148_1.jpg",
+        "url2": "http://www.hobartcity.com.au/files/abcdeaa3-e0cd-4f2d-9f57-9f4b00efbf41/9148_2.jpg",
+        "location": {
+            "lat": -42.88321300018543,
+            "long": 147.3315919345008
+        }
+    },
+    {
+        "artist": "Tom O'Hern",
+        "title": "Stump",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Brisbane & Harrington Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/1cc5e9c5-4654-4a97-88dd-a0b0010158b9/9149_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/e0bc1907-65b8-4963-b05b-a0b0010f6a73/9149_2Small.jpg",
+        "location": {
+            "lat": -42.88168686742252,
+            "long": 147.3207044199662
+        }
+    },
+    {
+        "artist": "Hannah Cardamatis",
+        "title": "Hannah's",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Brisbane & Elizabeth Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/aff28380-475e-4645-a39e-a08d00f2507f/9151_dsc07234_w430_h620_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/ddd4ae48-32b1-4867-8b75-a08d00f23acc/9151_dsc07233_w430_h620_Small.jpg",
+        "location": {
+            "lat": -42.87968220346027,
+            "long": 147.32330348452
+        }
+    },
+    {
+        "artist": "The Hutchins School Kindergarten, Kate Turner",
+        "title": "Childhood Wishes",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Sandy Bay & Gladstone Rds",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/58880437-527b-4927-ab48-a08d00f2626c/9168_dscn5250_w430_h620_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/149f33ba-3888-4287-96ef-a08d00f27344/9168_dscn5252_w430_h620_Small.jpg",
+        "location": {
+            "lat": -42.88803881594107,
+            "long": 147.3299559800902
+        }
+    },
+    {
+        "artist": "Community Rehabilitation Unit Art Group, Julie Oh",
+        "title": "Live",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Barrack & Davey Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/8efb1e18-3628-4582-af34-a08d00f2a4a2/9175_view_3_Small.bmp",
+        "url2": "http://www.hobartcity.com.au/files/8b402a76-86f8-40b3-98a7-a08d00f28641/9175_view_2_Small.bmp",
+        "location": {
+            "lat": -42.88760820853123,
+            "long": 147.3254882302099
+        }
+    },
+    {
+        "artist": "Oak Tasmania, Aedan Howlett and RecLink",
+        "title": "Moving On",
+        "date": "2010",
+        "materials": "<Null>",
+        "address": "Cnr Morrison and Murray Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/3e72b702-498a-4a00-8d1c-9f4b00efbf9f/9177_1.jpg",
+        "url2": "http://www.hobartcity.com.au/files/5dc6246b-7b13-4bc1-8a5e-9f4b00efc001/9177_2.jpg",
+        "location": {
+            "lat": -42.88518814833068,
+            "long": 147.3311617502565
+        }
+    },
+    {
+        "artist": "Students of Hilliard Christian School",
+        "title": "Summer Fun in Hobart",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Cnr Elizabeth & Morrison Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/d24670a9-1782-4e64-b36e-9f4b00efc063/9179_1.jpg",
+        "url2": "http://www.hobartcity.com.au/files/2cf6c176-a07b-4421-9dcc-9f4b00efc0c1/9179_2.jpg",
+        "location": {
+            "lat": -42.88344676229424,
+            "long": 147.3322753110601
+        }
+    },
+    {
+        "artist": "iriXx",
+        "title": "Mandala",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Davey St & Southern Outlet",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/29f07b1a-62d6-4480-8578-a0b001016976/9194_Small.bmp",
+        "url2": "http://www.hobartcity.com.au/files/22fa48b7-783d-45dd-a03b-a0b0010f7cb0/9194_2Small.bmp",
+        "location": {
+            "lat": -42.89300586606251,
+            "long": 147.3185260871967
+        }
+    },
+    {
+        "artist": "Community Friends & Networks Program (South),",
+        "title": "Community Friends",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Murray St (outside Hudson's Coffee)",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/f59f49ae-1c36-4c4f-b0d4-9f4b00efc11f/9408_1.jpg",
+        "url2": "http://www.hobartcity.com.au/files/f7a1cab0-df80-4ad5-9a04-9f4b00efc186/9408_2.jpg",
+        "location": {
+            "lat": -42.88320747598108,
+            "long": 147.3267526198493
+        }
+    },
+    {
+        "artist": "Wendy Fitch",
+        "title": "The Creature",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Macquarie St & Southern Outlet",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/8ab77622-f75a-4618-bc38-a08d00f2b8fe/9413_p1020213-1-1_w430_h620_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/cdaefa02-16ab-4472-bfe3-a08d00f2ccfd/9413_p1020215-1-1_w430_h620_Small.jpg",
+        "location": {
+            "lat": -42.89233572099871,
+            "long": 147.3173309647146
+        }
+    },
+    {
+        "artist": "Hayley Francis",
+        "title": "The Brisbane Stack",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Brisbane & Campbell Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/40c68cc2-fcd5-46a2-9142-a08d00f3103e/9415_img-1660_w430_h620_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/8e5a9c2e-8604-4a52-ac1f-a08d00f31e8b/9415_img-1662-2_w430_h620_Small.jpg",
+        "location": {
+            "lat": -42.8769713739641,
+            "long": 147.3266295864027
+        }
+    },
+    {
+        "artist": "Argyle St near the Royal Hobart Hospital",
+        "title": "Forever Young",
+        "date": "2011",
+        "materials": "<Null>",
+        "address": "Argyle St near the Royal Hobart Hospital",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/d47ac1ca-24fc-42c3-9362-9ffa00ecc9b7/9429_a_.jpg",
+        "url2": "http://www.hobartcity.com.au/files/97703256-0f5e-422a-914a-9ffa00ecda4e/9429_b.jpg",
+        "location": {
+            "lat": -42.88092933469534,
+            "long": 147.3293723919606
+        }
+    },
+    {
+        "artist": "Campbell St Primary School",
+        "title": "Our School in our Community",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Campbell & Warwick Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/9e6647c9-900f-48eb-ac54-a0b001017ea5/9437_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/09225db9-6533-4c7d-a3e0-a0b0010f8d89/9437_2Small.jpg",
+        "location": {
+            "lat": -42.87440269923783,
+            "long": 147.3234250690377
+        }
+    },
+    {
+        "artist": "Guilford Young College.",
+        "title": "Sense of Place",
+        "date": "2012",
+        "materials": "<Null>",
+        "address": "Cnr Harrington & Melville Sts",
+        "description": "<Null>",
+        "type": "<Null>",
+        "url1": "http://www.hobartcity.com.au/files/1911dc10-a518-4e88-9c51-a0b00101941b/9466_Small.jpg",
+        "url2": "http://www.hobartcity.com.au/files/37eb4fea-fe36-4c2e-a610-a0b300a6cda2/9466_3_Small.jpg",
+        "location": {
+            "lat": -42.88231167785222,
+            "long": 147.321932443038
+        }
+    },
+    {
+        "artist": "Patrick Hall, Lynda Warner & Chirs Viney",
+        "title": "Beaumaris Zoo gate",
+        "date": "2002",
+        "materials": "steel, tiles, images",
+        "address": "Carriage Drive, Queens Domain",
+        "description": "<Null>",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image39.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87059157293668,
+            "long": 147.333000778231
+        }
+    },
+    {
+        "artist": "Stephen Walker",
+        "title": "Antipodean Voyage",
+        "date": "1972",
+        "materials": "houn pine, steel",
+        "address": "Royal Tasmania Botanical Gardens",
+        "description": "Huion pine fountain sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/Antipodean Voyage.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.86511702003725,
+            "long": 147.3334799964881
+        }
+    },
+    {
+        "artist": "Ronald Sinclair",
+        "title": "Long Beach bathing pavillion",
+        "date": "1962",
+        "materials": "concrete",
+        "address": "Bathing Pavillion, Long Beach Sandy Bay",
+        "description": "Bas-relief",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image43.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.91381700886378,
+            "long": 147.357278279414
+        }
+    },
+    {
+        "artist": "Audrey Hutchinson",
+        "title": "Tree Sculpture",
+        "date": "1986",
+        "materials": "",
+        "address": "McRobies Gully Recycling centre",
+        "description": "Sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image70.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.89064777084187,
+            "long": 147.2907815910176
+        }
+    },
+    {
+        "artist": "Aquila Night",
+        "title": "Recycled Gate",
+        "date": "1985",
+        "materials": "steel",
+        "address": "McRobies Gully Recycling centre",
+        "description": "Sculpture",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image71.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.89066344639913,
+            "long": 147.2907475078366
+        }
+    },
+    {
+        "artist": "Robert Morris-Nunn",
+        "title": "Pipe sculpture",
+        "date": "1993",
+        "materials": "",
+        "address": "Waterworks reserve",
+        "description": "",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image72.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.90769916324635,
+            "long": 147.2926811259526
+        }
+    },
+    {
+        "artist": "Tom Samek, Bevan Reeves",
+        "title": "Play equipment",
+        "date": "1997",
+        "materials": "Timber, paint",
+        "address": "Wellington Court",
+        "description": "Wooden play equipment and sculpted shapes",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image15.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88134056292964,
+            "long": 147.3285195460969
+        }
+    },
+    {
+        "artist": "Julie Stoneman, Richard Bladel",
+        "title": "Youth Arts Project, Bidencopes Lane",
+        "date": "1998",
+        "materials": "Aluminium bands bearing text on walls",
+        "address": "Bidencopes Lane",
+        "description": "<Null>",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image24.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88224783810149,
+            "long": 147.3244518406399
+        }
+    },
+    {
+        "artist": "Unknown",
+        "title": "Art pavers",
+        "date": "1998",
+        "materials": "Pavers",
+        "address": "Collins Street",
+        "description": "Art pavers",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image25.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87919042177004,
+            "long": 147.3327839285177
+        }
+    },
+    {
+        "artist": "Julie Hawkins",
+        "title": "The More Things Change \u2026",
+        "date": "2002",
+        "materials": "metal",
+        "address": "Victoria Walk",
+        "description": "Metal interpretive signs",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image26.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88394307333212,
+            "long": 147.3254118028119
+        }
+    },
+    {
+        "artist": "Julie Hawkins",
+        "title": "The More Things Change \u2026",
+        "date": "2002",
+        "materials": "metal",
+        "address": "Victoria Walk",
+        "description": "Metal interpretive signs",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image26.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88397015261556,
+            "long": 147.3254411057007
+        }
+    },
+    {
+        "artist": "Julie Hawkins",
+        "title": "Welcome to Victoria Walk",
+        "date": "2002",
+        "materials": "aluminium",
+        "address": "Victoria walk",
+        "description": "Interpretive sign",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image27.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.8841069375395,
+            "long": 147.325601232779
+        }
+    },
+    {
+        "artist": "Vlase Nikoleski",
+        "title": "Endeavour plaque",
+        "date": "1970",
+        "materials": "Bronze",
+        "address": "Hobart Town Hall, Maquarie st",
+        "description": "Bronze representation of Cook's ship, Endeavour",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image28.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.8825108984952,
+            "long": 147.3308171184132
+        }
+    },
+    {
+        "artist": "Leonard Jennings",
+        "title": "Edward VII Peacemaker",
+        "date": "1921",
+        "materials": "Bronze",
+        "address": "Franklin Square",
+        "description": "Statue of a Edward VII",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image29.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88313046358675,
+            "long": 147.3299713807799
+        }
+    },
+    {
+        "artist": "M Racci",
+        "title": "Dr William Lodewyk Crowther",
+        "date": "1889",
+        "materials": "Bronze",
+        "address": "Franklin Square",
+        "description": "Bronze statue of William Crowther",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image30.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88360598878336,
+            "long": 147.3303880849341
+        }
+    },
+    {
+        "artist": "Unknown",
+        "title": "John Franklin fountain",
+        "date": "1864",
+        "materials": "Bronze",
+        "address": "Franklin Square",
+        "description": "Bronze statue and fountain",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image31.jpeg",
+        "url2": "http://hccapps.hobartcity.com.au/gis/PublicArt/image32.jpeg",
+        "location": {
+            "lat": -42.88335217448925,
+            "long": 147.3302354689147
+        }
+    },
+    {
+        "artist": "Bernard Walker, Elizabeth Conlon",
+        "title": "Hobart Cenotaph",
+        "date": "1925",
+        "materials": "Stone, Bronze",
+        "address": "Regatta Grounds",
+        "description": "Granite obelisk, bluestone base",
+        "type": "Memorial",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image37.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87782018668677,
+            "long": 147.3365474659353
+        }
+    },
+    {
+        "artist": "Benjamin Sheppard",
+        "title": "Boer War memorial",
+        "date": "1905",
+        "materials": "Bronze, stone",
+        "address": "Queens Domain",
+        "description": "Bronze statue of Boer War soldier",
+        "type": "Memorial",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image36.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87613317907686,
+            "long": 147.3335005520371
+        }
+    },
+    {
+        "artist": "Lorraine and Bob Jennings",
+        "title": "Monument to the Canadian convicts",
+        "date": "1995",
+        "materials": "Stone, glass",
+        "address": "Princes Park",
+        "description": "<Null>",
+        "type": "Memorial",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image42.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88776142837354,
+            "long": 147.337636187552
+        }
+    },
+    {
+        "artist": "Bruce Pringle",
+        "title": "Gate",
+        "date": "1990",
+        "materials": "Wrought iron",
+        "address": "North Hobart Cultural Park",
+        "description": "Curly wrought iron gate",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image53.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87694447176342,
+            "long": 147.3164712679249
+        }
+    },
+    {
+        "artist": "Linda Warner, Juile Stoneman, Chris Viney",
+        "title": "Migration Wall",
+        "date": "2001",
+        "materials": "Paint",
+        "address": "North Hobart Memorial Park",
+        "description": "Mural",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image54.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.87708895605385,
+            "long": 147.3169390561209
+        }
+    },
+    {
+        "artist": "Unknown",
+        "title": "Poem Monument",
+        "date": "1993",
+        "materials": "Stone",
+        "address": "Stoke Street Reserve",
+        "description": "Granite block with the text",
+        "type": "Memorial",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image55.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.86428880694362,
+            "long": 147.3109924474019
+        }
+    },
+    {
+        "artist": "Greg Duncan",
+        "title": "Penny-farthing sculpture",
+        "date": "1997",
+        "materials": "Steel",
+        "address": "Girrabong Rd and Lennah Valley Road.",
+        "description": "Red-painted welded iron sculpture",
+        "type": "Urban Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image55.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.86338900586171,
+            "long": 147.2821818883572
+        }
+    },
+    {
+        "artist": "Julie Stoneman",
+        "title": "Totem Pole",
+        "date": "<Null>",
+        "materials": "Timber, paint",
+        "address": "Risely Court Playground, Lenah Valley",
+        "description": "Totem Pole",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image57.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.85774624765327,
+            "long": 147.2761645614533
+        }
+    },
+    {
+        "artist": "Julie Stoneman",
+        "title": "Totem Pole",
+        "date": "<Null>",
+        "materials": "Timber, paint",
+        "address": "Kalang avenue Playground.",
+        "description": "Celery top pine totem pole",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image58.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.86011290026107,
+            "long": 147.2825943836745
+        }
+    },
+    {
+        "artist": "Juile Stoneman, various",
+        "title": "BBQ pit mural",
+        "date": "1995",
+        "materials": "Concrete, steel, tiles",
+        "address": "Train Park West Hobart",
+        "description": "Mural",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image67.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.88209528999936,
+            "long": 147.3131547330428
+        }
+    },
+    {
+        "artist": "Julie Stoneman",
+        "title": "Interpretive Sculpture",
+        "date": "2003",
+        "materials": "Steel",
+        "address": "Hobart Rivulet linear park near McFarlane Street",
+        "description": "Steel girders with informative plates",
+        "type": "<Null>",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image68.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.89437273400512,
+            "long": 147.3043632168407
+        }
+    },
+    {
+        "artist": "Unknown",
+        "title": "Mural",
+        "date": "1982",
+        "materials": "Paint",
+        "address": "Anglesea Street",
+        "description": "Painted Mural",
+        "type": "Public Art",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/image69.jpeg",
+        "url2": "",
+        "location": {
+            "lat": -42.89539678175014,
+            "long": 147.3095604403816
+        }
+    },
+    {
+        "artist": "Ken Betlehelm",
+        "title": "Dazza",
+        "date": "2010",
+        "materials": "Aluminium",
+        "address": "TMAG, 40 Macquarie Street",
+        "description": "Lazer cut aluminium, human silhouette",
+        "type": "Bike Rack",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0074.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.88172884553641,
+            "long": 147.3317801852531
+        }
+    },
+    {
+        "artist": "<Null>",
+        "title": "Queen Elizabeth 50th Anniversary",
+        "date": "1954",
+        "materials": "Granite, Bronze",
+        "address": "Hunter Street",
+        "description": "Memorial",
+        "type": "Memorial",
+        "url1": "http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0076.JPG",
+        "url2": "",
+        "location": {
+            "lat": -42.88174206681939,
+            "long": 147.3355411122033
+        }
+    },
+    {
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst",
+        "title": "People and their imprints",
+        "date": "2014",
+        "materials": "Steel, Ceramic tiles, concrete",
+        "address": "New Town Rivulet Linear Park",
+        "description": "<Null>",
+        "type": "Flora, Fauna and Foray",
+        "url1": "http://www.hobartcity.com.au/files/81e9b273-d4e8-4068-ae66-a3fb00a55e65/Foray_1_-_People_and_their_imprints_-_Image_by_Jonathan_Wherrett_web.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.86490775287734,
+            "long": 147.2806904048244
+        }
+    },
+    {
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst",
+        "title": "Threatened fauna",
+        "date": "2014",
+        "materials": "Steel, Ceramic tiles, concrete",
+        "address": "New Town Rivulet Linear Park",
+        "description": "<Null>",
+        "type": "Flora, Fauna and Foray",
+        "url1": "http://www.hobartcity.com.au/files/3ac4d1f1-efd9-419d-a037-a3fb00a576b1/Foray_2_-_Threatened_Fauna_-_Image_by_Jonathan_Wherrett_web.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.8652199328339,
+            "long": 147.2777378312531
+        }
+    },
+    {
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst",
+        "title": "Flora",
+        "date": "2014",
+        "materials": "Steel, Ceramic tiles, concrete",
+        "address": "New Town Rivulet Linear Park",
+        "description": "Local plant species",
+        "type": "Flora, Fauna and Foray",
+        "url1": "http://www.hobartcity.com.au/files/da3014da-81b2-4b16-9323-a3fb00a4f9c7/Flora_-_Image_by_Jonathan_Wherrett_web.jpg",
+        "url2": "http://www.hobartcity.com.au/files/fcd4d6be-5c18-4680-8a43-a3fb00a54846/Flora_detail_-_Image_by_Jonathan_Wherrett_web.jpg",
+        "location": {
+            "lat": -42.86561550714906,
+            "long": 147.2757443552269
+        }
+    },
+    {
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst",
+        "title": "Fauna",
+        "date": "2014",
+        "materials": "Steel, Ceramic tiles, concrete",
+        "address": "New Town Rivulet Linear Park",
+        "description": "Rivulet life",
+        "type": "Flora, Fauna and Foray",
+        "url1": "http://www.hobartcity.com.au/files/8492b4ab-bf27-4f88-bf31-a3fb00a4c2e5/Fauna_-_Image_by_Jonathan_Wherrett_web.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.86680110384278,
+            "long": 147.2701524599592
+        }
+    },
+    {
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst",
+        "title": "Geology",
+        "date": "2014",
+        "materials": "Steel, Ceramic tiles, concrete",
+        "address": "New Town Rivulet Linear Park",
+        "description": "<Null>",
+        "type": "Flora, Fauna and Foray",
+        "url1": "http://www.hobartcity.com.au/files/cee4e281-ccde-448c-a90b-a3fb00a58cff/Foray_3_-_Geology_detail_-_Image_by_Jonathan_Wherrett_web.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.86742470153721,
+            "long": 147.2684060451063
+        }
+    },
+    {
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst",
+        "title": "River fauna",
+        "date": "2014",
+        "materials": "Steel, Ceramic tiles, concrete",
+        "address": "New Town Rivulet Linear Park",
+        "description": "<Null>",
+        "type": "Flora, Fauna and Foray",
+        "url1": "http://www.hobartcity.com.au/files/eceaf9d4-0c6d-49b8-8826-a3fb00a5a36d/Foray_4_-_River_Fauna_-_Image_by_Jonathan_Wherrett_web.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.87057696153998,
+            "long": 147.2653358873318
+        }
+    },
+    {
+        "artist": "Sue Small, Wendy Edwards and Simon Pankhurst",
+        "title": "Vegetation",
+        "date": "2014",
+        "materials": "Steel, Ceramic tiles, concrete",
+        "address": "New Town Rivulet Linear Park",
+        "description": "<Null>",
+        "type": "Flora, Fauna and Foray",
+        "url1": "http://www.hobartcity.com.au/files/f5ccfed5-d39e-4d41-899e-a3fb00a5bbab/Foray_5_-_Vegetation_-_Image_by_Jonathan_Wherrett_web.jpg",
+        "url2": "",
+        "location": {
+            "lat": -42.87454151591638,
+            "long": 147.2570597281183
+        }
+    }
+]
