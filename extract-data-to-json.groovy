@@ -36,7 +36,8 @@ def parsedData = placemarks.collect { placemark ->
 		]
 	]
 }
-println parsedData
 
-new File('parsedData.json').write(JsonOutput.toJson(parsedData))
+def json = JsonOutput.toJson(parsedData)
+
+new File('parsedData.json').write(JsonOutput.prettyPrint(json))
 //Document doc = Jsoup.parse(html)
