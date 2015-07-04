@@ -12,7 +12,7 @@ def getValue = { row ->
 }
 
 def placemarks = data.Document.Folder.Placemark
-def outputString = "artist, title, date, materials, address, description, type, url1, url2, loc_lat, loc_long\n"
+def outputString = "id\t artist\t title\t date\t materials\t address\t description\t type\t url1\t url2\t loc_lat\t, loc_long\n"
 def parsedData = placemarks.each { placemark ->
 
 	def description = Jsoup.parse(placemark.description.text())
@@ -21,6 +21,7 @@ def parsedData = placemarks.each { placemark ->
 	//println lat
 	//println artist
 	def rowValues = [
+		id: placemark.@id,
 		artist: getValue(rows[0]),
 		title: getValue(rows[1]),
 		date: getValue(rows[2]),
@@ -36,7 +37,7 @@ def parsedData = placemarks.each { placemark ->
 		]
 	]
 
-	outputString += "${rowValues.artist}, ${rowValues.title}, ${rowValues.date}, ${rowValues.materials}, ${rowValues.address}, ${rowValues.description}, ${rowValues.type}, ${rowValues.url1}, ${rowValues.url2}, ${rowValues.location.lat}, ${rowValues.location.long}\n"
+	outputString += "${rowValues.id}\t ${rowValues.artist}\t ${rowValues.title}\t ${rowValues.date}\t ${rowValues.materials}\t ${rowValues.address}\t ${rowValues.description}\t ${rowValues.type}\t ${rowValues.url1}\t ${rowValues.url2}\t ${rowValues.location.lat}\t ${rowValues.location.long}\n"
 }
 
 
