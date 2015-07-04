@@ -1,0 +1,3722 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <Document id="GISProj.GISDBA.COMMUNITY_Urban_Art">
+    <name>GISProj.GISDBA.COMMUNITY_Urban_Art</name>
+    <Snippet/>
+    <Folder id="FeatureLayer0">
+      <name>GISProj.GISDBA.COMMUNITY_Urban_Art</name>
+      <Snippet/>
+      <Placemark id="ID_00001">
+        <name>Greg Duncan</name>
+        <Snippet/>
+        <description>
+          <artist>Greg Duncan</artist>
+          <title>Bust of Cecil Voss</title>
+          <date>1998</date>
+          <materials>Stone</materials>
+          <address>Soundy Park</address>
+          <description>Stone Sculpture</description>
+          <type>Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image44.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87274312254961</lat>
+            <long>147.3194931771939</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3194931771939,-42.87274312254961,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00002">
+        <name>Julie Stoneman (Community Facilitator)</name>
+        <Snippet/>
+        <description>
+          <artist>Julie Stoneman (Community Facilitator)</artist>
+          <title>Community Paving Project</title>
+          <date>1994</date>
+          <materials>Pavers</materials>
+          <address>Elizabeth Street and side streets, North Hobart</address>
+          <description>&lt;Null&gt;</description>
+          <type>Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0003.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.87335406456058</lat>
+            <long>147.3155023364818</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3155023364818,-42.87335406456058,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00003">
+        <name>Gerhardt Mauz/Kieran Bradley</name>
+        <Snippet/>
+        <description>
+          <artist>Gerhardt Mauz/Kieran Bradley</artist>
+          <title>Lightpoles</title>
+          <date>2005</date>
+          <materials>Steel</materials>
+          <address>Elizabeth Street</address>
+          <description>Lightpoles and Photography</description>
+          <type>Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image47.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87248026228411</lat>
+            <long>147.3146246779994</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3146246779994,-42.87248026228411,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00004">
+        <name>Peter Gouldthorpe</name>
+        <Snippet/>
+        <description>
+          <artist>Peter Gouldthorpe</artist>
+          <title>Tony Haigh Walk</title>
+          <date>2000</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>&lt;Null&gt;</address>
+          <description>2 Trompe l'oeil murals</description>
+          <type>Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image48.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87390719414243</lat>
+            <long>147.3160684555258</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3160684555258,-42.87390719414243,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00005">
+        <name>Gehard Mausz</name>
+        <Snippet/>
+        <description>
+          <artist>Gehard Mausz</artist>
+          <title>Cultural Bollard</title>
+          <date>2000</date>
+          <materials>Steel</materials>
+          <address>Elizabeth Street</address>
+          <description>Patterened Steel Cylinder</description>
+          <type>Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image49.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87367152314735</lat>
+            <long>147.3159246123297</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3159246123297,-42.87367152314735,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00006">
+        <name>Peter Battaglene</name>
+        <Snippet/>
+        <description>
+          <artist>Peter Battaglene</artist>
+          <title>Art Pavers</title>
+          <date>2005</date>
+          <materials>pavers</materials>
+          <address>Elizabeth Street</address>
+          <description>Sandblasted decorative pavers</description>
+          <type>Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0003.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.87364565236186</lat>
+            <long>147.3158682993458</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3158682993458,-42.87364565236186,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00007">
+        <name>Sharyn Woods</name>
+        <Snippet/>
+        <description>
+          <artist>Sharyn Woods</artist>
+          <title>Fences</title>
+          <date>2005</date>
+          <materials>Stainless Steel</materials>
+          <address>&lt;Null&gt;</address>
+          <description>Sections of open patterned stainless steel fencing</description>
+          <type>Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image51.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.8727237856192</lat>
+            <long>147.314837027175</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.314837027175,-42.8727237856192,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00008">
+        <name>Sharyn Woods</name>
+        <Snippet/>
+        <description>
+          <artist>Sharyn Woods</artist>
+          <title>Tree Guards</title>
+          <date>2005</date>
+          <materials>stainless steel</materials>
+          <address>Elizabeth Street</address>
+          <description>welded stainless strip boxes</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image50.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87303057453714</lat>
+            <long>147.3151984679925</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3151984679925,-42.87303057453714,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00009">
+        <name>Roland Gabatel</name>
+        <Snippet/>
+        <description>
+          <artist>Roland Gabatel</artist>
+          <title>Tree Sculpture</title>
+          <date>2000</date>
+          <materials>Timber</materials>
+          <address>Friends Park, Mellifont Street.</address>
+          <description>Chainsaw sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image52.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87672267866007</lat>
+            <long>147.3084070417308</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3084070417308,-42.87672267866007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00010">
+        <name>Peter Taylor</name>
+        <Snippet/>
+        <description>
+          <artist>Peter Taylor</artist>
+          <title>Archway</title>
+          <date>1988</date>
+          <materials>Timber</materials>
+          <address>Hunter Street, Universtiy of Tasmania Art School</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0066.JPG</url1>
+          <url2>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0067.JPG</url2>
+          <location>
+            <lat>-42.88144240159926</lat>
+            <long>147.3363089134809</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3363089134809,-42.88144240159926,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00011">
+        <name>Stephen Walker</name>
+        <Snippet/>
+        <description>
+          <artist>Stephen Walker</artist>
+          <title>The Bernacchi Tribute: Self Portrait, Lous and Joe</title>
+          <date>1988</date>
+          <materials>Bronze</materials>
+          <address>Victoria Dock</address>
+          <description>Bronze sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0063.jpg</url1>
+          <url2>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0064.jpg</url2>
+          <location>
+            <lat>-42.88225238834132</lat>
+            <long>147.3351723782548</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3351723782548,-42.88225238834132,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00012">
+        <name>David Hurst</name>
+        <Snippet/>
+        <description>
+          <artist>David Hurst</artist>
+          <title>Troyseas</title>
+          <date>2004</date>
+          <materials>Bronze</materials>
+          <address>Mures Fish Centre, waterfront</address>
+          <description>Bronze seahorse</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0078.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88228652932703</lat>
+            <long>147.3337098270266</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3337098270266,-42.88228652932703,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00013">
+        <name>Iam Makay</name>
+        <Snippet/>
+        <description>
+          <artist>Iam Makay</artist>
+          <title>Bright Prospect</title>
+          <date>1979</date>
+          <materials>Steel, Paint</materials>
+          <address>TMAG, 40 Macquarie Street</address>
+          <description>Orange painted constructavist steel sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0071.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88163573405019</lat>
+            <long>147.3319416460867</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3319416460867,-42.88163573405019,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00014">
+        <name>John Arnold</name>
+        <Snippet/>
+        <description>
+          <artist>John Arnold</artist>
+          <title>Mural, Kent &amp; Kent Antiques</title>
+          <date>1998</date>
+          <materials>Paint</materials>
+          <address>On the wall of Kent and Kent Antiques</address>
+          <description>Painted Mural</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image34.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88295423519235</lat>
+            <long>147.3321544209718</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3321544209718,-42.88295423519235,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00015">
+        <name>Stephen Walker</name>
+        <Snippet/>
+        <description>
+          <artist>Stephen Walker</artist>
+          <title>Tidal Pools</title>
+          <date>1970</date>
+          <materials>Bronze</materials>
+          <address>Long Beach, Sandy Bay</address>
+          <description>Bronze sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0059.jpg</url1>
+          <url2>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0057.jpg</url2>
+          <location>
+            <lat>-42.91233705658434</lat>
+            <long>147.3564900053166</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3564900053166,-42.91233705658434,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00016">
+        <name>Stephen Walker</name>
+        <Snippet/>
+        <description>
+          <artist>Stephen Walker</artist>
+          <title>Tasman Monument</title>
+          <date>1988</date>
+          <materials>Concrete, Steel, Bronze</materials>
+          <address>Salamanca Place</address>
+          <description>Concrete forms incorporating bronze sculptures</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image33.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88633421925687</lat>
+            <long>147.3315717073784</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3315717073784,-42.88633421925687,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00017">
+        <name>Stephen Walker</name>
+        <Snippet/>
+        <description>
+          <artist>Stephen Walker</artist>
+          <title>Journey to Southland</title>
+          <date>1979</date>
+          <materials>Bronze, concrete</materials>
+          <address>Salamanca Square</address>
+          <description>circular fountain with bronze sculptures</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image40.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88736773052766</lat>
+            <long>147.3327916626435</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3327916626435,-42.88736773052766,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00018">
+        <name>Peter Wilson</name>
+        <Snippet/>
+        <description>
+          <artist>Peter Wilson</artist>
+          <title>Wave</title>
+          <date>1998</date>
+          <materials>Aluminium, Steel</materials>
+          <address>Salamanca Square</address>
+          <description>sculpture in painted steel and aluminium</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0087.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88746172408802</lat>
+            <long>147.3323408045803</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3323408045803,-42.88746172408802,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00019">
+        <name>Keizo Ushio</name>
+        <Snippet/>
+        <description>
+          <artist>Keizo Ushio</artist>
+          <title>Gift from the Earth</title>
+          <date>2001</date>
+          <materials>Granite, timber</materials>
+          <address>A J White Park, Battery Poing</address>
+          <description>Granite sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image41.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88919132741535</lat>
+            <long>147.3380769568636</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3380769568636,-42.88919132741535,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00020">
+        <name>Joe Burgden, Bernard Lloyd, Sound Connections</name>
+        <Snippet/>
+        <description>
+          <artist>Joe Burgden, Bernard Lloyd, Sound Connections</artist>
+          <title>Victoria Cross Memorial</title>
+          <date>2003</date>
+          <materials>Rammed earth, glass</materials>
+          <address>Cenotaph, Hobart</address>
+          <description>Rammed Earth and glass monument</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image38.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87752379007447</lat>
+            <long>147.3358211670198</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3358211670198,-42.87752379007447,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00021">
+        <name>Penny Smith, Mialn Milojevic, John Smith</name>
+        <Snippet/>
+        <description>
+          <artist>Penny Smith, Mialn Milojevic, John Smith</artist>
+          <title>Wapping History Wall</title>
+          <date>1998</date>
+          <materials>Concrete, Brick</materials>
+          <address>Collins Street, Brooker Highway</address>
+          <description>&lt;Null&gt;</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image23.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87880638531607</lat>
+            <long>147.3330361623906</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3330361623906,-42.87880638531607,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00022">
+        <name>Geoff Parr, Vere Cooper, Rod Cuthbert</name>
+        <Snippet/>
+        <description>
+          <artist>Geoff Parr, Vere Cooper, Rod Cuthbert</artist>
+          <title>Railway Roundabout Fountain</title>
+          <date>1963</date>
+          <materials>Concrete</materials>
+          <address>Brooker Highway</address>
+          <description>Fountain</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image22.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87804479832364</lat>
+            <long>147.3310259988671</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3310259988671,-42.87804479832364,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00023">
+        <name>Christopher Beecroft</name>
+        <Snippet/>
+        <description>
+          <artist>Christopher Beecroft</artist>
+          <title>Minute Man</title>
+          <date>1986</date>
+          <materials>Steel</materials>
+          <address>TAS HQ Campbell and Melville Street</address>
+          <description>Welded mild steel sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_00101.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.87745030943859</lat>
+            <long>147.3270983445999</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3270983445999,-42.87745030943859,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00024">
+        <name>Glen Clake</name>
+        <Snippet/>
+        <description>
+          <artist>Glen Clake</artist>
+          <title>Brick</title>
+          <date>1998</date>
+          <materials>Metal</materials>
+          <address>Hobart Remand Centre, 23 - 25 Liverpool Street.</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/Brick (2).jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87920100858153</lat>
+            <long>147.3293673193911</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3293673193911,-42.87920100858153,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00025">
+        <name>Hobart City Council</name>
+        <Snippet/>
+        <description>
+          <artist>Hobart City Council</artist>
+          <title>Hobart Rivulet Interpretaions</title>
+          <date>1998</date>
+          <materials>Steel</materials>
+          <address>Argyle Street</address>
+          <description>Two rectangular steel panels</description>
+          <type>Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image16.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88059520851069</lat>
+            <long>147.3289802997716</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3289802997716,-42.88059520851069,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00026">
+        <name>Tom Samek</name>
+        <Snippet/>
+        <description>
+          <artist>Tom Samek</artist>
+          <title>Inspiration</title>
+          <date>1990</date>
+          <materials/>
+          <address>25 Argyle Street.</address>
+          <description>Sculpture on column</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0095.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88150582068632</lat>
+            <long>147.3304819582173</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3304819582173,-42.88150582068632,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00027">
+        <name>Irene Bryant</name>
+        <Snippet/>
+        <description>
+          <artist>Irene Bryant</artist>
+          <title>Duality</title>
+          <date>1991</date>
+          <materials>Concrete, Steel</materials>
+          <address>70 Collins Street</address>
+          <description>Ferro-cement sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0093.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88147913529032</lat>
+            <long>147.3298208822417</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3298208822417,-42.88147913529032,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00028">
+        <name>Sharyn Woods</name>
+        <Snippet/>
+        <description>
+          <artist>Sharyn Woods</artist>
+          <title>Tree Guards</title>
+          <date>1999</date>
+          <materials>stainless steel</materials>
+          <address>Commonwealth Bank corner Elizabeth Street</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image20.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88115911197071</lat>
+            <long>147.3270346495125</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3270346495125,-42.88115911197071,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00029">
+        <name>Wayne Hudson, Helene Czerny</name>
+        <Snippet/>
+        <description>
+          <artist>Wayne Hudson, Helene Czerny</artist>
+          <title>City Women</title>
+          <date>1998</date>
+          <materials>steel</materials>
+          <address>Elizabeth Lane, Cat and Fiddle aracde.</address>
+          <description>steel wall mounted sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image17.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88169678927518</lat>
+            <long>147.3274553077553</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3274553077553,-42.88169678927518,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00030">
+        <name>Wayne Hudson</name>
+        <Snippet/>
+        <description>
+          <artist>Wayne Hudson</artist>
+          <title>Seats with leaning Posts</title>
+          <date>1998</date>
+          <materials>stainless steel</materials>
+          <address>Elizabeth Lane, Cat and Fiddle arcade</address>
+          <description>-</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image18.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88189015612827</lat>
+            <long>147.3273251152857</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3273251152857,-42.88189015612827,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00031">
+        <name>Julie Stoneman</name>
+        <Snippet/>
+        <description>
+          <artist>Julie Stoneman</artist>
+          <title>Paving Design</title>
+          <date>1998</date>
+          <materials>Brick Pavers</materials>
+          <address>Ctriterion Street</address>
+          <description>Brick paving</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image19.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88144383573657</lat>
+            <long>147.3259231328377</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3259231328377,-42.88144383573657,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00032">
+        <name>Pavement Art</name>
+        <Snippet/>
+        <description>
+          <artist>Pavement Art</artist>
+          <title>Chantale Delrue</title>
+          <date>1990</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Mathers Lane</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image21.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88171834840235</lat>
+            <long>147.3255966083427</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3255966083427,-42.88171834840235,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00033">
+        <name>Ian Chalmers, Lindsay Garity</name>
+        <Snippet/>
+        <description>
+          <artist>Ian Chalmers, Lindsay Garity</artist>
+          <title>Hobart Rivulet Interpretations</title>
+          <date>1995</date>
+          <materials>steel, concrete</materials>
+          <address>Murray Street, Centrepoint pedestrian crossing</address>
+          <description>Curved steel strips in pavement</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image2.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88304621457425</lat>
+            <long>147.3264901811633</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3264901811633,-42.88304621457425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00034">
+        <name>Allan Mansell</name>
+        <Snippet/>
+        <description>
+          <artist>Allan Mansell</artist>
+          <title>Reaching Out</title>
+          <date>2004</date>
+          <materials/>
+          <address>188 Collins Street</address>
+          <description>Sculpture and Mural</description>
+          <type>Sculpture and Mural</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/20141203_162834.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88689928836643</lat>
+            <long>147.3226325717425</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3226325717425,-42.88689928836643,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00035">
+        <name>George Davis</name>
+        <Snippet/>
+        <description>
+          <artist>George Davis</artist>
+          <title>Tile</title>
+          <date>1964</date>
+          <materials>Tiles</materials>
+          <address>UTAS Conservatorium of Music</address>
+          <description>Tile wall mosaic on building</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0088.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.8867781254838</lat>
+            <long>147.3281256124001</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3281256124001,-42.8867781254838,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00036">
+        <name>Paul Zika</name>
+        <Snippet/>
+        <description>
+          <artist>Paul Zika</artist>
+          <title>Paving design</title>
+          <date>1996</date>
+          <materials>bricks</materials>
+          <address>Elizabeth Street Mall</address>
+          <description>Symmetrical design in coloured bricks</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image1.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88145650565588</lat>
+            <long>147.3274687398049</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3274687398049,-42.88145650565588,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00037">
+        <name>Ian Chalmers, Lindsay Garity</name>
+        <Snippet/>
+        <description>
+          <artist>Ian Chalmers, Lindsay Garity</artist>
+          <title>Hobart Rivulet Interpretations</title>
+          <date>&lt;Null&gt;</date>
+          <materials>steel, concrete</materials>
+          <address>Murray Street, Centrepoint pedestrian crossing</address>
+          <description>Curved steel strips in pavement</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image2.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.8829687543799</lat>
+            <long>147.3265787689805</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3265787689805,-42.8829687543799,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00038">
+        <name>Milan Milojevic, Lindsay Garity, Ian Chalmers</name>
+        <Snippet/>
+        <description>
+          <artist>Milan Milojevic, Lindsay Garity, Ian Chalmers</artist>
+          <title>Hobart Rivulet Interpretations</title>
+          <date>1996</date>
+          <materials>steel, concrete</materials>
+          <address>Elizabeth Street Mall</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image14.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88148995374108</lat>
+            <long>147.3276699246547</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3276699246547,-42.88148995374108,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00039">
+        <name>Patrick Wall</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Wall</artist>
+          <title>Fish out of water</title>
+          <date>1996</date>
+          <materials>Aluminium</materials>
+          <address>Elizabeth Street Mall</address>
+          <description>Aluminum fish drinking fountain</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image4.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88197809056592</lat>
+            <long>147.328554446623</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.328554446623,-42.88197809056592,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00040">
+        <name>Patrick Hall</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Hall</artist>
+          <title>Thompson the Dog</title>
+          <date>1996</date>
+          <materials>Timber</materials>
+          <address>Elizabeth Street Mall</address>
+          <description>Timber dog</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image5.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88191256512047</lat>
+            <long>147.3284089597482</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3284089597482,-42.88191256512047,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00041">
+        <name>Patrick Hall</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Hall</artist>
+          <title>Maurice the Pig</title>
+          <date>1996</date>
+          <materials>Hebel block, paint</materials>
+          <address>Elizabeth Street Mall</address>
+          <description>Moulded hebel block, painted white pig sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image6.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88194232514448</lat>
+            <long>147.328481046179</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.328481046179,-42.88194232514448,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00042">
+        <name>Patrick Hall</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Hall</artist>
+          <title>Street Signs - Wellington Walk</title>
+          <date>1996</date>
+          <materials>steel, ceramic tiles</materials>
+          <address>Elizabeth Street Mall</address>
+          <description>Wellington Walk - Wellington Crt</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0098.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88152230341176</lat>
+            <long>147.3277721519491</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3277721519491,-42.88152230341176,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00043">
+        <name>Patrick Hall</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Hall</artist>
+          <title>Street Signs - Purdys Mart</title>
+          <date>1996</date>
+          <materials>steel</materials>
+          <address>Collins Street</address>
+          <description>Purdys Mart</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0092.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88177689026765</lat>
+            <long>147.329142350624</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.329142350624,-42.88177689026765,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00044">
+        <name>Patrick Hall</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Hall</artist>
+          <title>Street Signs - Kemp Street</title>
+          <date>1996</date>
+          <materials>steel</materials>
+          <address>Collins Street</address>
+          <description>Kemp Street</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0091.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.8815183267847</lat>
+            <long>147.3294772712727</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3294772712727,-42.8815183267847,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00045">
+        <name>Patrick Hall</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Hall</artist>
+          <title>Street Signs</title>
+          <date>1996</date>
+          <materials>steel</materials>
+          <address>Argyle Street</address>
+          <description/>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0094.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88088629675933</lat>
+            <long>147.3293200995748</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3293200995748,-42.88088629675933,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00046">
+        <name>Patrick Hall</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Hall</artist>
+          <title>Street Signs - Bank Arcade</title>
+          <date>1996</date>
+          <materials>steel</materials>
+          <address>Liverpool Street</address>
+          <description/>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0097.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88091635935886</lat>
+            <long>147.3276753763854</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3276753763854,-42.88091635935886,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00047">
+        <name>Patrick Hall</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Hall</artist>
+          <title>Street Signs</title>
+          <date>1996</date>
+          <materials>steel, ceramic tiles</materials>
+          <address>Elizabeth Street Mall</address>
+          <description>Bank Arcade</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image8.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88136247464536</lat>
+            <long>147.3274230200142</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3274230200142,-42.88136247464536,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00048">
+        <name>Patrick Hall</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Hall</artist>
+          <title>Street Signs - Soundys Lane</title>
+          <date>1996</date>
+          <materials>steel</materials>
+          <address>Elizabeth Street Mall</address>
+          <description/>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0099.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88160303880302</lat>
+            <long>147.3279462012967</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3279462012967,-42.88160303880302,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00049">
+        <name>Patrick Hall</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Hall</artist>
+          <title>Granite Stories</title>
+          <date>1996</date>
+          <materials>Granite</materials>
+          <address>Elizabeth Street Mall</address>
+          <description>Engravings to granite blocks in seating</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image9.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88185243992315</lat>
+            <long>147.3283055654023</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3283055654023,-42.88185243992315,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00050">
+        <name>Carol Rodwell</name>
+        <Snippet/>
+        <description>
+          <artist>Carol Rodwell</artist>
+          <title>police box mural</title>
+          <date>1998</date>
+          <materials>paint</materials>
+          <address>Elizabeth Street Mall</address>
+          <description>painted mural</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image11.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88182008402902</lat>
+            <long>147.3283718119425</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3283718119425,-42.88182008402902,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00051">
+        <name>Sharyn Woods</name>
+        <Snippet/>
+        <description>
+          <artist>Sharyn Woods</artist>
+          <title>Wind Shields</title>
+          <date>1996</date>
+          <materials>stainless steel</materials>
+          <address>Elizabeth Street Mall</address>
+          <description>Curved, woven stainless steel screens</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image10.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88203348754708</lat>
+            <long>147.3287325724506</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3287325724506,-42.88203348754708,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00052">
+        <name>Paul Zika</name>
+        <Snippet/>
+        <description>
+          <artist>Paul Zika</artist>
+          <title>Paving design</title>
+          <date>1996</date>
+          <materials>brick pavers</materials>
+          <address>Wellington Court</address>
+          <description>Symmetrical design in coloured bricks</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image12.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88128414472624</lat>
+            <long>147.3283171312989</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3283171312989,-42.88128414472624,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00053">
+        <name>Hobart City Council</name>
+        <Snippet/>
+        <description>
+          <artist>Hobart City Council</artist>
+          <title>Terrazo star</title>
+          <date>1998</date>
+          <materials>tiles, steel</materials>
+          <address>Wellington Court</address>
+          <description>Terrazo and Bronze strips in paving</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image12.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88129830099867</lat>
+            <long>147.3283658047948</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3283658047948,-42.88129830099867,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00054">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Jo &amp; Edie</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Tasma Street</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0006.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.87511021703933</lat>
+            <long>147.3194192140392</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3194192140392,-42.87511021703933,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00055">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Fred</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Tasma Street</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0006.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.87506098797548</lat>
+            <long>147.3195518198034</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3195518198034,-42.87506098797548,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00056">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Bazza</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Elizabeth St, between Brisbane &amp; Mellville St</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0100.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.87988128585182</lat>
+            <long>147.3238333137203</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3238333137203,-42.87988128585182,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00057">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Dazza</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Elizabeth St, between Brisbane &amp; Mellville St</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0100.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.87991396745193</lat>
+            <long>147.3239034639348</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3239034639348,-42.87991396745193,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00058">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Gazza</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Elizabeth St, between Brisbane &amp; Mellville St</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0100.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.87994807167483</lat>
+            <long>147.3239765371663</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3239765371663,-42.87994807167483,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00059">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Ez</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Golburn &amp; Molle Street</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0061.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88644522408968</lat>
+            <long>147.3199383851654</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3199383851654,-42.88644522408968,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00060">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Fred</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Hunter St</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0077.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88121919675631</lat>
+            <long>147.334929704462</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.334929704462,-42.88121919675631,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00061">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Fred</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Salamanca Square</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0080.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88686006898552</lat>
+            <long>147.3322279845156</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3322279845156,-42.88686006898552,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00062">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Mac</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Salamanca Square</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0081.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88692748680722</lat>
+            <long>147.3322041024404</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3322041024404,-42.88692748680722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00063">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Charlie</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Salamanca Square</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0081.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88700883322519</lat>
+            <long>147.3321587453241</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3321587453241,-42.88700883322519,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00064">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Jo &amp; Edie</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Salamanca Square</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0083.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88723118331279</lat>
+            <long>147.3331609148761</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3331609148761,-42.88723118331279,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00065">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Charlie Kik &amp; Rose</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Salamanca Square</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0084.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.887231111653</lat>
+            <long>147.3331855393384</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3331855393384,-42.887231111653,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00066">
+        <name>Ken Betlehem</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehem</artist>
+          <title>Ruby</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>Salamanca Square</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0061.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88724220193141</lat>
+            <long>147.3331736760321</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3331736760321,-42.88724220193141,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00067">
+        <name>Futago, Judith Abell, Chris Viney</name>
+        <Snippet/>
+        <description>
+          <artist>Futago, Judith Abell, Chris Viney</artist>
+          <title>1883</title>
+          <date>2010</date>
+          <materials>Stone, steel</materials>
+          <address>Salamanca Palce</address>
+          <description>Steel cages with stone chips</description>
+          <type>Battery Point Trail</type>
+          <url1>http://www.hobartcity.com.au/files/f1b57999-88ac-4041-98fa-9dd800d3c1f6/1833_073.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88663918579913</lat>
+            <long>147.3346451741691</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3346451741691,-42.88663918579913,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00068">
+        <name>Futago, Judith Abell, Chris Viney</name>
+        <Snippet/>
+        <description>
+          <artist>Futago, Judith Abell, Chris Viney</artist>
+          <title>12.43</title>
+          <date>2010</date>
+          <materials>concrete, steel and resin</materials>
+          <address>Castray Esplanade</address>
+          <description>&lt;Null&gt;</description>
+          <type>Battery Point Trail</type>
+          <url1>http://www.hobartcity.com.au/files/4aa2e287-d70a-4205-a715-9dd800d3c1b9/12.43_083.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88659912440483</lat>
+            <long>147.337550966097</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.337550966097,-42.88659912440483,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00069">
+        <name>Futago, Judith Abell, Chris Viney</name>
+        <Snippet/>
+        <description>
+          <artist>Futago, Judith Abell, Chris Viney</artist>
+          <title>628 nm</title>
+          <date>2010</date>
+          <materials>glass</materials>
+          <address>Castray Eplanade foreshore</address>
+          <description>&lt;Null&gt;</description>
+          <type>Battery Point Trail</type>
+          <url1>http://www.hobartcity.com.au/files/650fe8d5-9af6-49ee-81ae-9dd800d3c2c9/628_030.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88743212320976</lat>
+            <long>147.3391890390568</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3391890390568,-42.88743212320976,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00070">
+        <name>Futago, Judith Abell, Chris Viney</name>
+        <Snippet/>
+        <description>
+          <artist>Futago, Judith Abell, Chris Viney</artist>
+          <title>2000</title>
+          <date>2010</date>
+          <materials>steel, concrete</materials>
+          <address>Finlay Street foreshore</address>
+          <description>steel wrapped around concrete retaining wall</description>
+          <type>Battery Point Trail</type>
+          <url1>http://www.hobartcity.com.au/files/7dc00033-3311-4d82-93c6-9e09010fd0e8/Battery_point_pics_027_(Small).jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88901121558774</lat>
+            <long>147.3379490012138</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3379490012138,-42.88901121558774,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00071">
+        <name>Futago, Judith Abell, Chris Viney</name>
+        <Snippet/>
+        <description>
+          <artist>Futago, Judith Abell, Chris Viney</artist>
+          <title>1923</title>
+          <date>2010</date>
+          <materials>Wire mesh, plants</materials>
+          <address>Clarke Avenue</address>
+          <description>wire cage containing topiary plant</description>
+          <type>Battery Point Trail</type>
+          <url1>http://www.hobartcity.com.au/files/e4e0711a-8554-4867-8fc8-9e09010fd340/Battery_point_pics_037_(Small).jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.89018079910949</lat>
+            <long>147.3385381406442</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3385381406442,-42.89018079910949,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00072">
+        <name>Futago, Judith Abell, Chris Viney</name>
+        <Snippet/>
+        <description>
+          <artist>Futago, Judith Abell, Chris Viney</artist>
+          <title>313</title>
+          <date>2010</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Derwent Lane jetty</address>
+          <description/>
+          <type>Battery Point Trail</type>
+          <url1>http://www.hobartcity.com.au/files/ddff0c92-aa9c-44eb-8caa-9dd800d3c246/313_009.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.8923183997485</lat>
+            <long>147.3373755398925</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3373755398925,-42.8923183997485,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00073">
+        <name>Futago, Judith Abell, Chris Viney</name>
+        <Snippet/>
+        <description>
+          <artist>Futago, Judith Abell, Chris Viney</artist>
+          <title>1250</title>
+          <date>2010</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Napoleon Street</address>
+          <description/>
+          <type>Battery Point Trail</type>
+          <url1>http://www.hobartcity.com.au/files/36a4b4f7-dcc1-4b7c-94e6-9dd800d3c1d5/1250_053.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.89227563696255</lat>
+            <long>147.3354824548092</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3354824548092,-42.89227563696255,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00074">
+        <name>Futago, Judith Abell, Chris Viney</name>
+        <Snippet/>
+        <description>
+          <artist>Futago, Judith Abell, Chris Viney</artist>
+          <title>24</title>
+          <date>2010</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Napoleon Street</address>
+          <description>Resin</description>
+          <type>Battery Point Trail</type>
+          <url1>http://www.hobartcity.com.au/files/8feb1c92-1256-4a6e-853c-9e09010fdcc1/Battery_point_pics_072_(Small).jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.89331214092064</lat>
+            <long>147.3346862255545</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3346862255545,-42.89331214092064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00075">
+        <name>Futago, Judith Abell, Chris Viney</name>
+        <Snippet/>
+        <description>
+          <artist>Futago, Judith Abell, Chris Viney</artist>
+          <title>1909</title>
+          <date>2010</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Marieville esplanade foreshore</address>
+          <description>painted steel sculpture</description>
+          <type>Battery Point Trail</type>
+          <url1>http://www.hobartcity.com.au/files/8feb1c92-1256-4a6e-853c-9e09010fdcc1/Battery_point_pics_072_(Small).jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.89438818219708</lat>
+            <long>147.3335878421836</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3335878421836,-42.89438818219708,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00076">
+        <name>Ari Purhonen </name>
+        <Snippet/>
+        <description>
+          <artist>Ari Purhonen</artist>
+          <title>Beacon</title>
+          <date>2013</date>
+          <materials>Timber, Stainless steel</materials>
+          <address>Long Beach Sandy Bay</address>
+          <description>stainless steel and celery top pine tower</description>
+          <type>Art</type>
+          <url1>http://www.hobartcity.com.au/files/eb4b6d51-670f-4f8d-9235-a23500b50b00/Ari_Purhonen_WEB_039.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/a0c7b665-9a58-43d9-b81c-a23500b4ee8b/Ari_Purhonen_WEB_015.jpg</url2>
+          <location>
+            <lat>-42.91021762682649</lat>
+            <long>147.3572424024102</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3572424024102,-42.91021762682649,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00077">
+        <name>Justy Phillips</name>
+        <Snippet/>
+        <description>
+          <artist>Justy Phillips</artist>
+          <title>The yellow line</title>
+          <date>2013</date>
+          <materials>Aluminium, Acrylic, LED lights</materials>
+          <address>Salamanca Place</address>
+          <description>Inground light box</description>
+          <type>Urban Art</type>
+          <url1>http://www.hobartcity.com.au/files/6b2ed319-80c5-4d5b-bc72-a23400e52333/In_the_Wake_of_your_Courage_I_swim.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.886061028844</lat>
+            <long>147.3303051904601</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3303051904601,-42.886061028844,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00078">
+        <name>Justy Phillips</name>
+        <Snippet/>
+        <description>
+          <artist>Justy Phillips</artist>
+          <title>The yellow line</title>
+          <date>2013</date>
+          <materials>Aluminium, Acrylic, LED lights</materials>
+          <address>Salamanca Place</address>
+          <description>Inground light box</description>
+          <type>Urban Art</type>
+          <url1>http://www.hobartcity.com.au/files/284644c3-4fbb-4c3e-86d0-a23400e50462/Forgive_me_for_not_holding_you_in_my_arms.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.8858923757109</lat>
+            <long>147.330040994905</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.330040994905,-42.8858923757109,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00079">
+        <name>Georgie Marshall, Najibeh Jafari</name>
+        <Snippet/>
+        <description>
+          <artist>Georgie Marshall, Najibeh Jafari</artist>
+          <title>No Trees No City</title>
+          <date>2011</date>
+          <materials>paint</materials>
+          <address>Cnr Davey and Harrington Streets</address>
+          <description>mural</description>
+          <type>Signal Box</type>
+          <url1>http://www.hobartcity.com.au/files/c56723b6-fca7-4980-9784-9ffa00ec02d8/9101_a.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/a6d0bfc4-cafd-45a5-9756-9ffa00ec1f0b/9101_b.jpg</url2>
+          <location>
+            <lat>-42.88637147044793</lat>
+            <long>147.3275504450056</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3275504450056,-42.88637147044793,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00080">
+        <name>Rory Lefroy</name>
+        <Snippet/>
+        <description>
+          <artist>Rory Lefroy</artist>
+          <title>Safe with us now</title>
+          <date>2011</date>
+          <materials>paint</materials>
+          <address>Cnr Davey &amp; Murray St</address>
+          <description>mural</description>
+          <type>Signal Box</type>
+          <url1>http://www.hobartcity.com.au/files/268722c2-e08a-48bd-bfec-9f4b00efb916/9103_front.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/03fb4c05-b4e3-4002-8964-9f4b00efb965/9103_side.jpg</url2>
+          <location>
+            <lat>-42.88436295941175</lat>
+            <long>147.3295638563851</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3295638563851,-42.88436295941175,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00081">
+        <name>Cosmos Inc</name>
+        <Snippet/>
+        <description>
+          <artist>Cosmos Inc</artist>
+          <title>Things we love about Tasmania</title>
+          <date>2011</date>
+          <materials>paint</materials>
+          <address>Cnr Macquarie &amp; Murray Sts</address>
+          <description>mural</description>
+          <type>Signal Box</type>
+          <url1>http://www.hobartcity.com.au/files/61a4979f-f340-4d12-8283-9ffa00ec31a0/9104_a.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/71251fd8-0a11-48cb-971a-9ffa00ec424a/9104_b.jpg</url2>
+          <location>
+            <lat>-42.88393169217031</lat>
+            <long>147.3288578992892</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3288578992892,-42.88393169217031,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00082">
+        <name>Valentina Marshall, Veronika Beinssen-Henry</name>
+        <Snippet/>
+        <description>
+          <artist>Valentina Marshall, Veronika Beinssen-Henry</artist>
+          <title>Spotted Handfish</title>
+          <date>&lt;Null&gt;</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Davey and Argyle Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/474e30f0-57c8-4dc6-a843-9ffa00ec5615/9105_a.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/a436fbf0-81d2-40a8-8847-9ffa00ec66e9/9105_b.jpg</url2>
+          <location>
+            <lat>-42.88251586972793</lat>
+            <long>147.3319324108624</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3319324108624,-42.88251586972793,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00083">
+        <name>Nicole Robson for MADE</name>
+        <Snippet/>
+        <description>
+          <artist>Nicole Robson for MADE</artist>
+          <title>MADE</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Macquarie &amp; Argyle Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/0b9ac357-83b9-4a54-813b-9f4b00efb9c3/9106_2.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/49e6537b-c0d1-45e0-aa58-9f4b00efba1c/9106_detail.jpg</url2>
+          <location>
+            <lat>-42.88204264244135</lat>
+            <long>147.3313680745744</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3313680745744,-42.88204264244135,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00084">
+        <name>The Pigeons of Hobart</name>
+        <Snippet/>
+        <description>
+          <artist>The Pigeons of Hobart</artist>
+          <title>Lucy Hawthorne</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Campbell &amp; Macquarie Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/78436bc0-d98e-4b91-a669-a08d00f0c7a5/9107_north-corner_w430_h620_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/01477fbf-164e-4665-8db7-a08d00f0ea0d/9107_south-side_w430_h620_Small.jpg</url2>
+          <location>
+            <lat>-42.88072666151513</lat>
+            <long>147.3324478010635</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3324478010635,-42.88072666151513,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00085">
+        <name>Crazy Flower Pattern</name>
+        <Snippet/>
+        <description>
+          <artist>Crazy Flower Pattern</artist>
+          <title>Juanita Morris &amp; Marcel Fantini</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Campbell &amp; Collins Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/8951a6d5-1a74-442b-81a0-a0b001009cc4/9108_2Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/3d80ca80-4bf6-4bde-bfb3-a0b001008229/9108_1_Small.jpg</url2>
+          <location>
+            <lat>-42.88010566686118</lat>
+            <long>147.3316359532766</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3316359532766,-42.88010566686118,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00086">
+        <name>Hands on Tasmania</name>
+        <Snippet/>
+        <description>
+          <artist>Hands on Tasmania</artist>
+          <title>Hands on English class, Tasmanian Polytechnic</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Argyle &amp; Liverpool Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/5db37860-285d-4fc9-80fc-a08d00f0fddd/9109_front_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/910ae2d1-7b0b-4c54-898a-a08d00f1118c/9109_side_1_Small.jpg</url2>
+          <location>
+            <lat>-42.8801740065739</lat>
+            <long>147.3283030901578</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3283030901578,-42.8801740065739,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00087">
+        <name>Holiday Time</name>
+        <Snippet/>
+        <description>
+          <artist>Holiday Time</artist>
+          <title>Oakdale Services</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Holiday Time</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/ae182903-ea16-4076-ba4c-9f4b00efba83/9110_front.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/952ca042-3e5b-413e-a519-9f4b00efbadc/9110_side.jpg</url2>
+          <location>
+            <lat>-42.88106497576714</lat>
+            <long>147.3299596807074</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3299596807074,-42.88106497576714,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00088">
+        <name>From darkness we all can find the light</name>
+        <Snippet/>
+        <description>
+          <artist>From darkness we all can find the light</artist>
+          <title>Create Foundation and Reclink</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Macquarie and Elizabeth Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/5e8506fb-12b9-408e-b4aa-9f4b00efbb35/9111_2.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/69108ba5-ea69-4025-aa00-9f4b00efbb98/91111.jpg</url2>
+          <location>
+            <lat>-42.88282688918648</lat>
+            <long>147.3299787902823</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3299787902823,-42.88282688918648,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00089">
+        <name>Desma Pacitto </name>
+        <Snippet/>
+        <description>
+          <artist>Desma Pacitto</artist>
+          <title>TasCare Society for Children</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Murray &amp; Collins</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/306ed138-956c-4059-9078-9f4b00efbbf5/9112_1.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/7eca1ff8-be28-4e26-b9dc-9f4b00efbc4e/9112_2.jpg</url2>
+          <location>
+            <lat>-42.88199637365013</lat>
+            <long>147.3288957932892</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3288957932892,-42.88199637365013,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00090">
+        <name>Reclink - Phillip McKay, Headway</name>
+        <Snippet/>
+        <description>
+          <artist>Reclink - Phillip McKay, Headway</artist>
+          <title>Such is Life</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Liverpool &amp; Murray Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/a6c0e3e9-88d7-49e4-bde3-9ffa00ec78a7/9113_a.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/bcfcca85-030a-47ae-b8fb-9ffa00ec8d29/9113_b.jpg</url2>
+          <location>
+            <lat>-42.88257046346956</lat>
+            <long>147.3255162030298</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3255162030298,-42.88257046346956,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00091">
+        <name>Risdon Prisoners with assistance from RecLink</name>
+        <Snippet/>
+        <description>
+          <artist>Risdon Prisoners with assistance from RecLink</artist>
+          <title>At What Cost?</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Elizabeth &amp; LIverpool Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/5ba528ce-b64b-4605-80bb-9f4b00efbcb1/9114_1.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/1ce05306-d382-44db-acd5-9f4b00efbd0f/9114_2.jpg</url2>
+          <location>
+            <lat>-42.88126675829872</lat>
+            <long>147.3269330962386</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3269330962386,-42.88126675829872,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00092">
+        <name>Sam Fenton</name>
+        <Snippet/>
+        <description>
+          <artist>Sam Fenton</artist>
+          <title>Courage</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Elizabeth &amp; Collins Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/92a3d13a-4ef7-433d-b747-a0b00100aeac/9115_2_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/7a0d3592-bb35-4c77-81de-a0b00100c3a3/9115_5_Small.jpg</url2>
+          <location>
+            <lat>-42.88207941858523</lat>
+            <long>147.3291285627857</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3291285627857,-42.88207941858523,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00093">
+        <name>Epilepsy Tasmania</name>
+        <Snippet/>
+        <description>
+          <artist>Epilepsy Tasmania</artist>
+          <title>Out of the</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Harrington &amp; Liverpool Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/9f999e6b-1f71-4ce9-a4bd-a0b00100ed89/9118_2Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/82af077c-7c56-4131-8ec6-a0b00100d740/9118_1_Small.jpg</url2>
+          <location>
+            <lat>-42.8841304526127</lat>
+            <long>147.3241790450382</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3241790450382,-42.8841304526127,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00094">
+        <name>Malou Zuidema</name>
+        <Snippet/>
+        <description>
+          <artist>Malou Zuidema</artist>
+          <title>Forests of the Sea</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Bathurst &amp; Murray Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/06b37255-a453-4eff-ae15-a08d00f12134/9119-oceans-of-the-sea-front-malou-zuidema_w430_h620_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/59f91ffd-ff87-4125-91e6-a08d00f132e8/9119-oceans-of-the-sea-side-2-malou-zuidema_w430_h620_Small.jpg</url2>
+          <location>
+            <lat>-42.8819844362505</lat>
+            <long>147.3242660774709</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3242660774709,-42.8819844362505,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00095">
+        <name>Menzie Family</name>
+        <Snippet/>
+        <description>
+          <artist>Menzie Family</artist>
+          <title>The many layers of Bathurst Street</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Elizabeth &amp; Bathurst Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/40c16cac-8778-48f2-9949-9ffa00ec9c08/9121_a.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/eb2d63c6-1d7a-419c-b173-9ffa00ecbbd1/9121_b.jpg</url2>
+          <location>
+            <lat>-42.88082135063647</lat>
+            <long>147.325835038753</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.325835038753,-42.88082135063647,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00096">
+        <name>Sharnie Everett and Palawa Aboriginal Group</name>
+        <Snippet/>
+        <description>
+          <artist>Sharnie Everett and Palawa Aboriginal Group</artist>
+          <title>Island &amp; Ocean</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Elizabeth St at Pedestrian Crossing</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/23f439ff-7748-4aa0-8919-a08d00f1bf39/9123_palawa-front-1_w430_h620_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/acb7ef55-c2cd-49c4-af44-a08d00f1ceee/9123_palawa-right-side-back_w430_h620_Small.jpg</url2>
+          <location>
+            <lat>-42.87362643008063</lat>
+            <long>147.3158825202121</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3158825202121,-42.87362643008063,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00097">
+        <name>Caroline Amos</name>
+        <Snippet/>
+        <description>
+          <artist>Caroline Amos</artist>
+          <title>Scotch Thistile Tavern 1828</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Barrack &amp; Liverpool Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/8ae3587a-cd14-46ac-94c7-a08d00f1df8a/9129_dsc-2173_w430_h620_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/34665f06-c063-4933-8e8c-a08d00f1f02a/9129_dsc-2182_w430_h620_Small.jpg</url2>
+          <location>
+            <lat>-42.88572371231743</lat>
+            <long>147.3224336640918</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3224336640918,-42.88572371231743,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00098">
+        <name>Tasmanian eSchool</name>
+        <Snippet/>
+        <description>
+          <artist>Tasmanian eSchool</artist>
+          <title>Flicks</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Collins &amp; Harrington Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/52eb38ff-77d2-4b1d-9959-a0b001010272/9131_2_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/a125faf2-2aa8-4377-9525-a0b0010119ae/9131_4_Small.jpg</url2>
+          <location>
+            <lat>-42.88490453981891</lat>
+            <long>147.3252559336992</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3252559336992,-42.88490453981891,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00099">
+        <name>Aspire</name>
+        <Snippet/>
+        <description>
+          <artist>Aspire</artist>
+          <title>Aspired</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Elizabeth &amp; Melville Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/f30948ec-1a7d-4923-9da0-9f4b00efbd68/9134_1.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/9089a973-9491-4b47-8418-9f4b00efbdc5/9134_2.jpg</url2>
+          <location>
+            <lat>-42.88025218205794</lat>
+            <long>147.3244917632264</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3244917632264,-42.88025218205794,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00100">
+        <name>Steffi Koppelmann</name>
+        <Snippet/>
+        <description>
+          <artist>Steffi Koppelmann</artist>
+          <title>Untitled</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Elizabeth &amp; Warwick Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/796472d1-4fb9-4206-bef4-a0b001012e2c/9136_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/e9e6da3b-d172-4154-afdb-a0b0010f3b69/9136_2Small.jpg</url2>
+          <location>
+            <lat>-42.87784150629451</lat>
+            <long>147.3190664947627</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3190664947627,-42.87784150629451,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00101">
+        <name>Friends School Kindergarten</name>
+        <Snippet/>
+        <description>
+          <artist>Friends School Kindergarten</artist>
+          <title>Peace</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Elizabeth &amp; Burnett Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/b2af3a3f-4cab-4274-a74e-a0b001014770/9137_2_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/416862dc-3043-4054-8e89-a0b0011097c5/9137_1_Small.jpg</url2>
+          <location>
+            <lat>-42.87448353703269</lat>
+            <long>147.3171412871065</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3171412871065,-42.87448353703269,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00102">
+        <name>Geordie Duncan</name>
+        <Snippet/>
+        <description>
+          <artist>Geordie Duncan</artist>
+          <title>Totem Sun-Whale Eye</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Elizabeth &amp; Federal St</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/b2465b05-9ec6-425d-a4d2-9f4b00efbe23/9138_1.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/72158b3b-3358-40f0-b972-9f4b00efbe81/9138_2.jpg</url2>
+          <location>
+            <lat>-42.871978022115</lat>
+            <long>147.3145497262581</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3145497262581,-42.871978022115,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00103">
+        <name>St Michael's Collegiate, Louise Bloomfield</name>
+        <Snippet/>
+        <description>
+          <artist>St Michael's Collegiate, Louise Bloomfield</artist>
+          <title>Catching your eye</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Macquarie &amp; Molle Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/52e47c65-0a49-496a-b558-a08d00f20851/9140_collegiate-angle2_w430_h620_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/535245a0-5cf5-42be-ab83-a08d00f21be8/9140_collegiate-side-angle_w430_h620_Small.jpg</url2>
+          <location>
+            <lat>-42.8884339103588</lat>
+            <long>147.3226191198606</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3226191198606,-42.8884339103588,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00104">
+        <name>Leigh &amp; Julian Oates</name>
+        <Snippet/>
+        <description>
+          <artist>Leigh &amp; Julian Oates</artist>
+          <title>Beneath</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Elizabeth &amp; Davey Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/4df14eca-5a24-4028-aa23-9f4b00efbede/9148_1.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/abcdeaa3-e0cd-4f2d-9f57-9f4b00efbf41/9148_2.jpg</url2>
+          <location>
+            <lat>-42.88321300018543</lat>
+            <long>147.3315919345008</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3315919345008,-42.88321300018543,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00105">
+        <name>Tom O'Hern</name>
+        <Snippet/>
+        <description>
+          <artist>Tom O'Hern</artist>
+          <title>Stump</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Brisbane &amp; Harrington Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/1cc5e9c5-4654-4a97-88dd-a0b0010158b9/9149_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/e0bc1907-65b8-4963-b05b-a0b0010f6a73/9149_2Small.jpg</url2>
+          <location>
+            <lat>-42.88168686742252</lat>
+            <long>147.3207044199662</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3207044199662,-42.88168686742252,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00106">
+        <name>Hannah Cardamatis</name>
+        <Snippet/>
+        <description>
+          <artist>Hannah Cardamatis</artist>
+          <title>Hannah's</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Brisbane &amp; Elizabeth Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/aff28380-475e-4645-a39e-a08d00f2507f/9151_dsc07234_w430_h620_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/ddd4ae48-32b1-4867-8b75-a08d00f23acc/9151_dsc07233_w430_h620_Small.jpg</url2>
+          <location>
+            <lat>-42.87968220346027</lat>
+            <long>147.32330348452</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.32330348452,-42.87968220346027,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00107">
+        <name>The Hutchins School Kindergarten, Kate Turner</name>
+        <Snippet/>
+        <description>
+          <artist>The Hutchins School Kindergarten, Kate Turner</artist>
+          <title>Childhood Wishes</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Sandy Bay &amp; Gladstone Rds</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/58880437-527b-4927-ab48-a08d00f2626c/9168_dscn5250_w430_h620_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/149f33ba-3888-4287-96ef-a08d00f27344/9168_dscn5252_w430_h620_Small.jpg</url2>
+          <location>
+            <lat>-42.88803881594107</lat>
+            <long>147.3299559800902</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3299559800902,-42.88803881594107,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00108">
+        <name>Community Rehabilitation Unit Art Group, Julie Oh</name>
+        <Snippet/>
+        <description>
+          <artist>Community Rehabilitation Unit Art Group, Julie Oh</artist>
+          <title>Live</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Barrack &amp; Davey Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/8efb1e18-3628-4582-af34-a08d00f2a4a2/9175_view_3_Small.bmp</url1>
+          <url2>http://www.hobartcity.com.au/files/8b402a76-86f8-40b3-98a7-a08d00f28641/9175_view_2_Small.bmp</url2>
+          <location>
+            <lat>-42.88760820853123</lat>
+            <long>147.3254882302099</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3254882302099,-42.88760820853123,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00109">
+        <name>Oak Tasmania, Aedan Howlett and RecLink</name>
+        <Snippet/>
+        <description>
+          <artist>Oak Tasmania, Aedan Howlett and RecLink</artist>
+          <title>Moving On</title>
+          <date>2010</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Morrison and Murray Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/3e72b702-498a-4a00-8d1c-9f4b00efbf9f/9177_1.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/5dc6246b-7b13-4bc1-8a5e-9f4b00efc001/9177_2.jpg</url2>
+          <location>
+            <lat>-42.88518814833068</lat>
+            <long>147.3311617502565</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3311617502565,-42.88518814833068,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00110">
+        <name>Students of Hilliard Christian School</name>
+        <Snippet/>
+        <description>
+          <artist>Students of Hilliard Christian School</artist>
+          <title>Summer Fun in Hobart</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Elizabeth &amp; Morrison Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/d24670a9-1782-4e64-b36e-9f4b00efc063/9179_1.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/2cf6c176-a07b-4421-9dcc-9f4b00efc0c1/9179_2.jpg</url2>
+          <location>
+            <lat>-42.88344676229424</lat>
+            <long>147.3322753110601</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3322753110601,-42.88344676229424,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00111">
+        <name>iriXx</name>
+        <Snippet/>
+        <description>
+          <artist>iriXx</artist>
+          <title>Mandala</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Davey St &amp; Southern Outlet</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/29f07b1a-62d6-4480-8578-a0b001016976/9194_Small.bmp</url1>
+          <url2>http://www.hobartcity.com.au/files/22fa48b7-783d-45dd-a03b-a0b0010f7cb0/9194_2Small.bmp</url2>
+          <location>
+            <lat>-42.89300586606251</lat>
+            <long>147.3185260871967</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3185260871967,-42.89300586606251,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00112">
+        <name>Community Friends &amp; Networks Program (South),</name>
+        <Snippet/>
+        <description>
+          <artist>Community Friends &amp; Networks Program (South),</artist>
+          <title>Community Friends</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Murray St (outside Hudson's Coffee)</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/f59f49ae-1c36-4c4f-b0d4-9f4b00efc11f/9408_1.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/f7a1cab0-df80-4ad5-9a04-9f4b00efc186/9408_2.jpg</url2>
+          <location>
+            <lat>-42.88320747598108</lat>
+            <long>147.3267526198493</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3267526198493,-42.88320747598108,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00113">
+        <name>Wendy Fitch</name>
+        <Snippet/>
+        <description>
+          <artist>Wendy Fitch</artist>
+          <title>The Creature</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Macquarie St &amp; Southern Outlet</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/8ab77622-f75a-4618-bc38-a08d00f2b8fe/9413_p1020213-1-1_w430_h620_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/cdaefa02-16ab-4472-bfe3-a08d00f2ccfd/9413_p1020215-1-1_w430_h620_Small.jpg</url2>
+          <location>
+            <lat>-42.89233572099871</lat>
+            <long>147.3173309647146</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3173309647146,-42.89233572099871,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00114">
+        <name>Hayley Francis</name>
+        <Snippet/>
+        <description>
+          <artist>Hayley Francis</artist>
+          <title>The Brisbane Stack</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Brisbane &amp; Campbell Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/40c68cc2-fcd5-46a2-9142-a08d00f3103e/9415_img-1660_w430_h620_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/8e5a9c2e-8604-4a52-ac1f-a08d00f31e8b/9415_img-1662-2_w430_h620_Small.jpg</url2>
+          <location>
+            <lat>-42.8769713739641</lat>
+            <long>147.3266295864027</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3266295864027,-42.8769713739641,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00115">
+        <name>Argyle St near the Royal Hobart Hospital</name>
+        <Snippet/>
+        <description>
+          <artist>Argyle St near the Royal Hobart Hospital</artist>
+          <title>Forever Young</title>
+          <date>2011</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Argyle St near the Royal Hobart Hospital</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/d47ac1ca-24fc-42c3-9362-9ffa00ecc9b7/9429_a_.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/97703256-0f5e-422a-914a-9ffa00ecda4e/9429_b.jpg</url2>
+          <location>
+            <lat>-42.88092933469534</lat>
+            <long>147.3293723919606</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3293723919606,-42.88092933469534,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00116">
+        <name>Campbell St Primary School</name>
+        <Snippet/>
+        <description>
+          <artist>Campbell St Primary School</artist>
+          <title>Our School in our Community</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Campbell &amp; Warwick Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/9e6647c9-900f-48eb-ac54-a0b001017ea5/9437_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/09225db9-6533-4c7d-a3e0-a0b0010f8d89/9437_2Small.jpg</url2>
+          <location>
+            <lat>-42.87440269923783</lat>
+            <long>147.3234250690377</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3234250690377,-42.87440269923783,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00117">
+        <name>Guilford Young College.</name>
+        <Snippet/>
+        <description>
+          <artist>Guilford Young College.</artist>
+          <title>Sense of Place</title>
+          <date>2012</date>
+          <materials>&lt;Null&gt;</materials>
+          <address>Cnr Harrington &amp; Melville Sts</address>
+          <description>&lt;Null&gt;</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://www.hobartcity.com.au/files/1911dc10-a518-4e88-9c51-a0b00101941b/9466_Small.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/37eb4fea-fe36-4c2e-a610-a0b300a6cda2/9466_3_Small.jpg</url2>
+          <location>
+            <lat>-42.88231167785222</lat>
+            <long>147.321932443038</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.321932443038,-42.88231167785222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00118">
+        <name>Patrick Hall, Lynda Warner &amp; Chirs Viney</name>
+        <Snippet/>
+        <description>
+          <artist>Patrick Hall, Lynda Warner &amp; Chirs Viney</artist>
+          <title>Beaumaris Zoo gate</title>
+          <date>2002</date>
+          <materials>steel, tiles, images</materials>
+          <address>Carriage Drive, Queens Domain</address>
+          <description>&lt;Null&gt;</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image39.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87059157293668</lat>
+            <long>147.333000778231</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.333000778231,-42.87059157293668,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00119">
+        <name>Stephen Walker</name>
+        <Snippet/>
+        <description>
+          <artist>Stephen Walker</artist>
+          <title>Antipodean Voyage</title>
+          <date>1972</date>
+          <materials>houn pine, steel</materials>
+          <address>Royal Tasmania Botanical Gardens</address>
+          <description>Huion pine fountain sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/Antipodean Voyage.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.86511702003725</lat>
+            <long>147.3334799964881</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3334799964881,-42.86511702003725,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00120">
+        <name>Ronald Sinclair</name>
+        <Snippet/>
+        <description>
+          <artist>Ronald Sinclair</artist>
+          <title>Long Beach bathing pavillion</title>
+          <date>1962</date>
+          <materials>concrete</materials>
+          <address>Bathing Pavillion, Long Beach Sandy Bay</address>
+          <description>Bas-relief</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image43.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.91381700886378</lat>
+            <long>147.357278279414</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.357278279414,-42.91381700886378,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00121">
+        <name>Audrey Hutchinson</name>
+        <Snippet/>
+        <description>
+          <artist>Audrey Hutchinson</artist>
+          <title>Tree Sculpture</title>
+          <date>1986</date>
+          <materials/>
+          <address>McRobies Gully Recycling centre</address>
+          <description>Sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image70.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.89064777084187</lat>
+            <long>147.2907815910176</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2907815910176,-42.89064777084187,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00122">
+        <name>Aquila Night</name>
+        <Snippet/>
+        <description>
+          <artist>Aquila Night</artist>
+          <title>Recycled Gate</title>
+          <date>1985</date>
+          <materials>steel</materials>
+          <address>McRobies Gully Recycling centre</address>
+          <description>Sculpture</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image71.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.89066344639913</lat>
+            <long>147.2907475078366</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2907475078366,-42.89066344639913,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00123">
+        <name>Robert Morris-Nunn</name>
+        <Snippet/>
+        <description>
+          <artist>Robert Morris-Nunn</artist>
+          <title>Pipe sculpture</title>
+          <date>1993</date>
+          <materials/>
+          <address>Waterworks reserve</address>
+          <description/>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image72.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.90769916324635</lat>
+            <long>147.2926811259526</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2926811259526,-42.90769916324635,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00124">
+        <name>Tom Samek, Bevan Reeves</name>
+        <Snippet/>
+        <description>
+          <artist>Tom Samek, Bevan Reeves</artist>
+          <title>Play equipment</title>
+          <date>1997</date>
+          <materials>Timber, paint</materials>
+          <address>Wellington Court</address>
+          <description>Wooden play equipment and sculpted shapes</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image15.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88134056292964</lat>
+            <long>147.3285195460969</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3285195460969,-42.88134056292964,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00125">
+        <name>Julie Stoneman, Richard Bladel</name>
+        <Snippet/>
+        <description>
+          <artist>Julie Stoneman, Richard Bladel</artist>
+          <title>Youth Arts Project, Bidencopes Lane</title>
+          <date>1998</date>
+          <materials>Aluminium bands bearing text on walls</materials>
+          <address>Bidencopes Lane</address>
+          <description>&lt;Null&gt;</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image24.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88224783810149</lat>
+            <long>147.3244518406399</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3244518406399,-42.88224783810149,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00126">
+        <name>Unknown</name>
+        <Snippet/>
+        <description>
+          <artist>Unknown</artist>
+          <title>Art pavers</title>
+          <date>1998</date>
+          <materials>Pavers</materials>
+          <address>Collins Street</address>
+          <description>Art pavers</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image25.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87919042177004</lat>
+            <long>147.3327839285177</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3327839285177,-42.87919042177004,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00127">
+        <name>Julie Hawkins</name>
+        <Snippet/>
+        <description>
+          <artist>Julie Hawkins</artist>
+          <title>The More Things Change …</title>
+          <date>2002</date>
+          <materials>metal</materials>
+          <address>Victoria Walk</address>
+          <description>Metal interpretive signs</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image26.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88394307333212</lat>
+            <long>147.3254118028119</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3254118028119,-42.88394307333212,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00128">
+        <name>Julie Hawkins</name>
+        <Snippet/>
+        <description>
+          <artist>Julie Hawkins</artist>
+          <title>The More Things Change …</title>
+          <date>2002</date>
+          <materials>metal</materials>
+          <address>Victoria Walk</address>
+          <description>Metal interpretive signs</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image26.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88397015261556</lat>
+            <long>147.3254411057007</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3254411057007,-42.88397015261556,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00129">
+        <name>Julie Hawkins</name>
+        <Snippet/>
+        <description>
+          <artist>Julie Hawkins</artist>
+          <title>Welcome to Victoria Walk</title>
+          <date>2002</date>
+          <materials>aluminium</materials>
+          <address>Victoria walk</address>
+          <description>Interpretive sign</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image27.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.8841069375395</lat>
+            <long>147.325601232779</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.325601232779,-42.8841069375395,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00130">
+        <name>Vlase Nikoleski</name>
+        <Snippet/>
+        <description>
+          <artist>Vlase Nikoleski</artist>
+          <title>Endeavour plaque</title>
+          <date>1970</date>
+          <materials>Bronze</materials>
+          <address>Hobart Town Hall, Maquarie st</address>
+          <description>Bronze representation of Cook's ship, Endeavour</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image28.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.8825108984952</lat>
+            <long>147.3308171184132</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3308171184132,-42.8825108984952,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00131">
+        <name>Leonard Jennings</name>
+        <Snippet/>
+        <description>
+          <artist>Leonard Jennings</artist>
+          <title>Edward VII Peacemaker</title>
+          <date>1921</date>
+          <materials>Bronze</materials>
+          <address>Franklin Square</address>
+          <description>Statue of a Edward VII</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image29.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88313046358675</lat>
+            <long>147.3299713807799</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3299713807799,-42.88313046358675,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00132">
+        <name>M Racci</name>
+        <Snippet/>
+        <description>
+          <artist>M Racci</artist>
+          <title>Dr William Lodewyk Crowther</title>
+          <date>1889</date>
+          <materials>Bronze</materials>
+          <address>Franklin Square</address>
+          <description>Bronze statue of William Crowther</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image30.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88360598878336</lat>
+            <long>147.3303880849341</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3303880849341,-42.88360598878336,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00133">
+        <name>Unknown</name>
+        <Snippet/>
+        <description>
+          <artist>Unknown</artist>
+          <title>John Franklin fountain</title>
+          <date>1864</date>
+          <materials>Bronze</materials>
+          <address>Franklin Square</address>
+          <description>Bronze statue and fountain</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image31.jpeg</url1>
+          <url2>http://hccapps.hobartcity.com.au/gis/PublicArt/image32.jpeg</url2>
+          <location>
+            <lat>-42.88335217448925</lat>
+            <long>147.3302354689147</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3302354689147,-42.88335217448925,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00134">
+        <name>Bernard Walker, Elizabeth Conlon</name>
+        <Snippet/>
+        <description>
+          <artist>Bernard Walker, Elizabeth Conlon</artist>
+          <title>Hobart Cenotaph</title>
+          <date>1925</date>
+          <materials>Stone, Bronze</materials>
+          <address>Regatta Grounds</address>
+          <description>Granite obelisk, bluestone base</description>
+          <type>Memorial</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image37.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87782018668677</lat>
+            <long>147.3365474659353</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3365474659353,-42.87782018668677,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00135">
+        <name>Benjamin Sheppard</name>
+        <Snippet/>
+        <description>
+          <artist>Benjamin Sheppard</artist>
+          <title>Boer War memorial</title>
+          <date>1905</date>
+          <materials>Bronze, stone</materials>
+          <address>Queens Domain</address>
+          <description>Bronze statue of Boer War soldier</description>
+          <type>Memorial</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image36.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87613317907686</lat>
+            <long>147.3335005520371</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3335005520371,-42.87613317907686,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00136">
+        <name>Lorraine and Bob Jennings</name>
+        <Snippet/>
+        <description>
+          <artist>Lorraine and Bob Jennings</artist>
+          <title>Monument to the Canadian convicts</title>
+          <date>1995</date>
+          <materials>Stone, glass</materials>
+          <address>Princes Park</address>
+          <description>&lt;Null&gt;</description>
+          <type>Memorial</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image42.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88776142837354</lat>
+            <long>147.337636187552</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.337636187552,-42.88776142837354,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00137">
+        <name>Bruce Pringle</name>
+        <Snippet/>
+        <description>
+          <artist>Bruce Pringle</artist>
+          <title>Gate</title>
+          <date>1990</date>
+          <materials>Wrought iron</materials>
+          <address>North Hobart Cultural Park</address>
+          <description>Curly wrought iron gate</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image53.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87694447176342</lat>
+            <long>147.3164712679249</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3164712679249,-42.87694447176342,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00138">
+        <name>Linda Warner, Juile Stoneman, Chris Viney</name>
+        <Snippet/>
+        <description>
+          <artist>Linda Warner, Juile Stoneman, Chris Viney</artist>
+          <title>Migration Wall</title>
+          <date>2001</date>
+          <materials>Paint</materials>
+          <address>North Hobart Memorial Park</address>
+          <description>Mural</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image54.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87708895605385</lat>
+            <long>147.3169390561209</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3169390561209,-42.87708895605385,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00139">
+        <name>Unknown</name>
+        <Snippet/>
+        <description>
+          <artist>Unknown</artist>
+          <title>Poem Monument</title>
+          <date>1993</date>
+          <materials>Stone</materials>
+          <address>Stoke Street Reserve</address>
+          <description>Granite block with the text</description>
+          <type>Memorial</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image55.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.86428880694362</lat>
+            <long>147.3109924474019</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3109924474019,-42.86428880694362,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00140">
+        <name>Greg Duncan</name>
+        <Snippet/>
+        <description>
+          <artist>Greg Duncan</artist>
+          <title>Penny-farthing sculpture</title>
+          <date>1997</date>
+          <materials>Steel</materials>
+          <address>Girrabong Rd and Lennah Valley Road.</address>
+          <description>Red-painted welded iron sculpture</description>
+          <type>Urban Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image55.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.86338900586171</lat>
+            <long>147.2821818883572</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2821818883572,-42.86338900586171,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00141">
+        <name>Julie Stoneman</name>
+        <Snippet/>
+        <description>
+          <artist>Julie Stoneman</artist>
+          <title>Totem Pole</title>
+          <date>&lt;Null&gt;</date>
+          <materials>Timber, paint</materials>
+          <address>Risely Court Playground, Lenah Valley</address>
+          <description>Totem Pole</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image57.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.85774624765327</lat>
+            <long>147.2761645614533</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2761645614533,-42.85774624765327,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00142">
+        <name>Julie Stoneman</name>
+        <Snippet/>
+        <description>
+          <artist>Julie Stoneman</artist>
+          <title>Totem Pole</title>
+          <date>&lt;Null&gt;</date>
+          <materials>Timber, paint</materials>
+          <address>Kalang avenue Playground.</address>
+          <description>Celery top pine totem pole</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image58.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.86011290026107</lat>
+            <long>147.2825943836745</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2825943836745,-42.86011290026107,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00143">
+        <name>Juile Stoneman, various</name>
+        <Snippet/>
+        <description>
+          <artist>Juile Stoneman, various</artist>
+          <title>BBQ pit mural</title>
+          <date>1995</date>
+          <materials>Concrete, steel, tiles</materials>
+          <address>Train Park West Hobart</address>
+          <description>Mural</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image67.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88209528999936</lat>
+            <long>147.3131547330428</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3131547330428,-42.88209528999936,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00144">
+        <name>Julie Stoneman</name>
+        <Snippet/>
+        <description>
+          <artist>Julie Stoneman</artist>
+          <title>Interpretive Sculpture</title>
+          <date>2003</date>
+          <materials>Steel</materials>
+          <address>Hobart Rivulet linear park near McFarlane Street</address>
+          <description>Steel girders with informative plates</description>
+          <type>&lt;Null&gt;</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image68.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.89437273400512</lat>
+            <long>147.3043632168407</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3043632168407,-42.89437273400512,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00145">
+        <name>Unknown</name>
+        <Snippet/>
+        <description>
+          <artist>Unknown</artist>
+          <title>Mural</title>
+          <date>1982</date>
+          <materials>Paint</materials>
+          <address>Anglesea Street</address>
+          <description>Painted Mural</description>
+          <type>Public Art</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/image69.jpeg</url1>
+          <url2/>
+          <location>
+            <lat>-42.89539678175014</lat>
+            <long>147.3095604403816</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3095604403816,-42.89539678175014,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00146">
+        <name>Ken Betlehelm</name>
+        <Snippet/>
+        <description>
+          <artist>Ken Betlehelm</artist>
+          <title>Dazza</title>
+          <date>2010</date>
+          <materials>Aluminium</materials>
+          <address>TMAG, 40 Macquarie Street</address>
+          <description>Lazer cut aluminium, human silhouette</description>
+          <type>Bike Rack</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0074.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.88172884553641</lat>
+            <long>147.3317801852531</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3317801852531,-42.88172884553641,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00147">
+        <name>NULL</name>
+        <Snippet/>
+        <description>
+          <artist>&lt;Null&gt;</artist>
+          <title>Queen Elizabeth 50th Anniversary</title>
+          <date>1954</date>
+          <materials>Granite, Bronze</materials>
+          <address>Hunter Street</address>
+          <description>Memorial</description>
+          <type>Memorial</type>
+          <url1>http://hccapps.hobartcity.com.au/gis/PublicArt/IMG_0076.JPG</url1>
+          <url2/>
+          <location>
+            <lat>-42.88174206681939</lat>
+            <long>147.3355411122033</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.3355411122033,-42.88174206681939,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00148">
+        <name>Sue Small, Wendy Edwards and Simon Pankhurst </name>
+        <Snippet/>
+        <description>
+          <artist>Sue Small, Wendy Edwards and Simon Pankhurst</artist>
+          <title>People and their imprints</title>
+          <date>2014</date>
+          <materials>Steel, Ceramic tiles, concrete</materials>
+          <address>New Town Rivulet Linear Park</address>
+          <description>&lt;Null&gt;</description>
+          <type>Flora, Fauna and Foray</type>
+          <url1>http://www.hobartcity.com.au/files/81e9b273-d4e8-4068-ae66-a3fb00a55e65/Foray_1_-_People_and_their_imprints_-_Image_by_Jonathan_Wherrett_web.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.86490775287734</lat>
+            <long>147.2806904048244</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2806904048244,-42.86490775287734,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00149">
+        <name>Sue Small, Wendy Edwards and Simon Pankhurst </name>
+        <Snippet/>
+        <description>
+          <artist>Sue Small, Wendy Edwards and Simon Pankhurst</artist>
+          <title>Threatened fauna</title>
+          <date>2014</date>
+          <materials>Steel, Ceramic tiles, concrete</materials>
+          <address>New Town Rivulet Linear Park</address>
+          <description>&lt;Null&gt;</description>
+          <type>Flora, Fauna and Foray</type>
+          <url1>http://www.hobartcity.com.au/files/3ac4d1f1-efd9-419d-a037-a3fb00a576b1/Foray_2_-_Threatened_Fauna_-_Image_by_Jonathan_Wherrett_web.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.8652199328339</lat>
+            <long>147.2777378312531</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2777378312531,-42.8652199328339,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00150">
+        <name>Sue Small, Wendy Edwards and Simon Pankhurst </name>
+        <Snippet/>
+        <description>
+          <artist>Sue Small, Wendy Edwards and Simon Pankhurst</artist>
+          <title>Flora</title>
+          <date>2014</date>
+          <materials>Steel, Ceramic tiles, concrete</materials>
+          <address>New Town Rivulet Linear Park</address>
+          <description>Local plant species</description>
+          <type>Flora, Fauna and Foray</type>
+          <url1>http://www.hobartcity.com.au/files/da3014da-81b2-4b16-9323-a3fb00a4f9c7/Flora_-_Image_by_Jonathan_Wherrett_web.jpg</url1>
+          <url2>http://www.hobartcity.com.au/files/fcd4d6be-5c18-4680-8a43-a3fb00a54846/Flora_detail_-_Image_by_Jonathan_Wherrett_web.jpg</url2>
+          <location>
+            <lat>-42.86561550714906</lat>
+            <long>147.2757443552269</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2757443552269,-42.86561550714906,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00151">
+        <name>Sue Small, Wendy Edwards and Simon Pankhurst </name>
+        <Snippet/>
+        <description>
+          <artist>Sue Small, Wendy Edwards and Simon Pankhurst</artist>
+          <title>Fauna</title>
+          <date>2014</date>
+          <materials>Steel, Ceramic tiles, concrete</materials>
+          <address>New Town Rivulet Linear Park</address>
+          <description>Rivulet life</description>
+          <type>Flora, Fauna and Foray</type>
+          <url1>http://www.hobartcity.com.au/files/8492b4ab-bf27-4f88-bf31-a3fb00a4c2e5/Fauna_-_Image_by_Jonathan_Wherrett_web.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.86680110384278</lat>
+            <long>147.2701524599592</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2701524599592,-42.86680110384278,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00152">
+        <name>Sue Small, Wendy Edwards and Simon Pankhurst </name>
+        <Snippet/>
+        <description>
+          <artist>Sue Small, Wendy Edwards and Simon Pankhurst</artist>
+          <title>Geology</title>
+          <date>2014</date>
+          <materials>Steel, Ceramic tiles, concrete</materials>
+          <address>New Town Rivulet Linear Park</address>
+          <description>&lt;Null&gt;</description>
+          <type>Flora, Fauna and Foray</type>
+          <url1>http://www.hobartcity.com.au/files/cee4e281-ccde-448c-a90b-a3fb00a58cff/Foray_3_-_Geology_detail_-_Image_by_Jonathan_Wherrett_web.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.86742470153721</lat>
+            <long>147.2684060451063</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2684060451063,-42.86742470153721,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00153">
+        <name>Sue Small, Wendy Edwards and Simon Pankhurst </name>
+        <Snippet/>
+        <description>
+          <artist>Sue Small, Wendy Edwards and Simon Pankhurst</artist>
+          <title>River fauna</title>
+          <date>2014</date>
+          <materials>Steel, Ceramic tiles, concrete</materials>
+          <address>New Town Rivulet Linear Park</address>
+          <description>&lt;Null&gt;</description>
+          <type>Flora, Fauna and Foray</type>
+          <url1>http://www.hobartcity.com.au/files/eceaf9d4-0c6d-49b8-8826-a3fb00a5a36d/Foray_4_-_River_Fauna_-_Image_by_Jonathan_Wherrett_web.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87057696153998</lat>
+            <long>147.2653358873318</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2653358873318,-42.87057696153998,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="ID_00154">
+        <name>Sue Small, Wendy Edwards and Simon Pankhurst </name>
+        <Snippet/>
+        <description>
+          <artist>Sue Small, Wendy Edwards and Simon Pankhurst</artist>
+          <title>Vegetation</title>
+          <date>2014</date>
+          <materials>Steel, Ceramic tiles, concrete</materials>
+          <address>New Town Rivulet Linear Park</address>
+          <description>&lt;Null&gt;</description>
+          <type>Flora, Fauna and Foray</type>
+          <url1>http://www.hobartcity.com.au/files/f5ccfed5-d39e-4d41-899e-a3fb00a5bbab/Foray_5_-_Vegetation_-_Image_by_Jonathan_Wherrett_web.jpg</url1>
+          <url2/>
+          <location>
+            <lat>-42.87454151591638</lat>
+            <long>147.2570597281183</long>
+          </location>
+        </description>
+        <styleUrl>#IconStyle01</styleUrl>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 147.2570597281183,-42.87454151591638,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Style id="IconStyle01">
+      <IconStyle>
+        <Icon>
+          <href>Layer0_Symbol_11fae9e0.png</href>
+        </Icon>
+        <scale>0.250000</scale>
+      </IconStyle>
+      <LabelStyle>
+        <color>00000000</color>
+        <scale>0.000000</scale>
+      </LabelStyle>
+      <PolyStyle>
+        <color>ff000000</color>
+        <outline>0</outline>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>
